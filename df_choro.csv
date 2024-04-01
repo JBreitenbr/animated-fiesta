@@ -120,17 +120,17 @@ Eastern Africa,Mauritius,74.42,1.41,13.8,15.4,5.9,99.79,148.06,6.43,1.04,13.0,2.
 Eastern Africa,Mauritius,74.24,1.4,14.5,15.9,6.6,100.0,144.0,6.33,0.97,12.0,2.71,17.5,1265985,MUS,Mauritius,Port Louis,Mauritius,2019
 Eastern Africa,Mauritius,74.18,1.44,14.9,16.3,6.9,99.46,147.39,8.63,0.9,12.0,3.14,17.03,1266014,MUS,Mauritius,Port Louis,Mauritius,2020
 Eastern Africa,Mauritius,73.68,1.41,15.3,16.6,6.8,99.6,151.77,7.72,0.92,12.0,3.28,16.64,1266334,MUS,Mauritius,Port Louis,Mauritius,2021
-Eastern Africa,Mozambique,54.87,5.55,67.8,100.6,16.0,20.2,33.06,3.29,2.7,359.0,26.48,45.48,23760421,MOZ,Mozambique,Maputo,Mozambique,2011
-Eastern Africa,Mozambique,55.64,5.45,65.4,96.4,17.2,21.21,35.96,3.31,2.57,361.0,25.52,45.45,24487611,MOZ,Mozambique,Maputo,Mozambique,2012
-Eastern Africa,Mozambique,56.49,5.34,63.4,92.1,23.5,22.41,49.11,3.34,2.39,361.0,24.25,45.35,25251731,MOZ,Mozambique,Maputo,Mozambique,2013
-Eastern Africa,Mozambique,57.27,5.13,61.9,88.3,31.2,24.8,70.98,3.38,2.21,361.0,24.66,45.18,26038704,MOZ,Mozambique,Maputo,Mozambique,2014
-Eastern Africa,Mozambique,58.15,5.06,60.4,84.0,39.5,24.0,75.01,3.43,2.02,361.0,23.57,44.96,26843246,MOZ,Mozambique,Maputo,Mozambique,2015
-Eastern Africa,Mozambique,59.04,4.99,58.9,80.8,40.7,26.22,54.25,3.5,1.87,361.0,23.63,44.71,27696493,MOZ,Mozambique,Maputo,Mozambique,2016
-Eastern Africa,Mozambique,59.77,4.92,56.7,78.4,35.5,24.3,41.57,3.59,1.69,361.0,26.07,44.46,28569441,MOZ,Mozambique,Maputo,Mozambique,2017
-Eastern Africa,Mozambique,60.53,4.85,55.2,76.3,29.5,31.1,47.83,3.67,1.51,361.0,25.54,44.26,29423878,MOZ,Mozambique,Maputo,Mozambique,2018
-Eastern Africa,Mozambique,61.17,4.78,53.6,73.5,27.0,29.69,48.78,3.71,1.33,361.0,24.77,44.06,30285595,MOZ,Mozambique,Maputo,Mozambique,2019
-Eastern Africa,Mozambique,61.17,4.71,52.5,71.6,29.5,30.61,49.6,4.07,1.17,361.0,26.88,43.86,31178239,MOZ,Mozambique,Maputo,Mozambique,2020
-Eastern Africa,Mozambique,59.32,4.64,51.0,69.6,30.5,31.49,42.67,4.25,1.08,361.0,26.89,43.68,32077072,MOZ,Mozambique,Maputo,Mozambique,2021
+Eastern Africa,Mozambique,,5.55,67.8,100.6,16.0,20.2,33.06,3.29,2.7,359.0,26.48,45.48,23760421,MOZ,Mozambique,Maputo,Mozambique,2011
+Eastern Africa,Mozambique,,5.45,65.4,96.4,17.2,21.21,35.96,3.31,2.57,361.0,25.52,45.45,24487611,MOZ,Mozambique,Maputo,Mozambique,2012
+Eastern Africa,Mozambique,,5.34,63.4,92.1,23.5,22.41,49.11,3.34,2.39,361.0,24.25,45.35,25251731,MOZ,Mozambique,Maputo,Mozambique,2013
+Eastern Africa,Mozambique,,5.13,61.9,88.3,31.2,24.8,70.98,3.38,2.21,361.0,24.66,45.18,26038704,MOZ,Mozambique,Maputo,Mozambique,2014
+Eastern Africa,Mozambique,,5.06,60.4,84.0,39.5,24.0,75.01,3.43,2.02,361.0,23.57,44.96,26843246,MOZ,Mozambique,Maputo,Mozambique,2015
+Eastern Africa,Mozambique,,4.99,58.9,80.8,40.7,26.22,54.25,3.5,1.87,361.0,23.63,44.71,27696493,MOZ,Mozambique,Maputo,Mozambique,2016
+Eastern Africa,Mozambique,,4.92,56.7,78.4,35.5,24.3,41.57,3.59,1.69,361.0,26.07,44.46,28569441,MOZ,Mozambique,Maputo,Mozambique,2017
+Eastern Africa,Mozambique,,4.85,55.2,76.3,29.5,31.1,47.83,3.67,1.51,361.0,25.54,44.26,29423878,MOZ,Mozambique,Maputo,Mozambique,2018
+Eastern Africa,Mozambique,,4.78,53.6,73.5,27.0,29.69,48.78,3.71,1.33,361.0,24.77,44.06,30285595,MOZ,Mozambique,Maputo,Mozambique,2019
+Eastern Africa,Mozambique,,4.71,52.5,71.6,29.5,30.61,49.6,4.07,1.17,361.0,26.88,43.86,31178239,MOZ,Mozambique,Maputo,Mozambique,2020
+Eastern Africa,Mozambique,,4.64,51.0,69.6,30.5,31.49,42.67,4.25,1.08,361.0,26.89,43.68,32077072,MOZ,Mozambique,Maputo,Mozambique,2021
 Eastern Africa,Rwanda,63.26,4.36,40.8,58.6,33.0,10.8,42.04,11.8,1.45,80.0,23.83,41.93,10576932,RWA,Rwanda,Kigali,Rwanda,2011
 Eastern Africa,Rwanda,64.01,4.23,39.0,55.2,33.0,17.5,52.5,11.7,1.36,72.0,24.76,41.74,10840334,RWA,Rwanda,Kigali,Rwanda,2012
 Eastern Africa,Rwanda,64.43,4.16,37.3,52.2,33.1,15.2,60.26,11.8,1.24,66.0,24.92,41.59,11101350,RWA,Rwanda,Kigali,Rwanda,2013
