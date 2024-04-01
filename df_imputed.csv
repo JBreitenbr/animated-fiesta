@@ -1,0 +1,661 @@
+region,country,life_expectancy,fertility,infant_deaths,under5_deaths,undernourish,electricity,mobile_phone,unemployment,hiv,tub,afofi,pop_under_15,population,Code,geounit,capital,land,Year
+Africa (all countries),Africa (all countries),59.81,4.92,55.4,83.61,14.19,45.95,60.12,7.18,2.22,271.34,20.81,41.49,60965806,,,,,2011
+Africa (all countries),Africa (all countries),60.32,4.87,53.87,80.74,14.11,46.62,66.76,7.17,2.11,263.06,20.98,41.45,62646093,,,,,2012
+Africa (all countries),Africa (all countries),60.78,4.82,52.51,78.16,14.51,47.64,72.28,7.01,1.96,253.0,20.18,41.41,64335018,,,,,2013
+Africa (all countries),Africa (all countries),61.21,4.76,51.25,75.88,14.81,47.86,75.88,7.04,1.82,245.25,19.82,41.35,66059762,,,,,2014
+Africa (all countries),Africa (all countries),61.59,4.71,50.06,73.78,15.33,48.47,79.79,7.16,1.7,235.1,19.95,41.27,67800544,,,,,2015
+Africa (all countries),Africa (all countries),62.04,4.64,48.89,71.68,15.71,52.36,78.1,7.15,1.58,220.83,19.66,41.18,69551523,,,,,2016
+Africa (all countries),Africa (all countries),62.43,4.59,47.74,69.76,16.0,52.31,77.56,7.25,1.43,212.33,19.79,41.06,71347464,,,,,2017
+Africa (all countries),Africa (all countries),62.76,4.54,46.57,67.8,16.17,54.42,75.15,7.09,1.29,204.7,19.38,40.92,73158996,,,,,2018
+Africa (all countries),Africa (all countries),63.09,4.49,45.48,65.98,16.94,55.07,82.63,7.05,1.16,197.62,19.48,40.75,74961431,,,,,2019
+Africa (all countries),Africa (all countries),62.63,4.42,44.44,64.16,18.04,56.16,85.55,7.64,1.03,190.74,20.61,40.57,76804200,,,,,2020
+Africa (all countries),Africa (all countries),62.08,4.37,43.4,62.37,18.95,57.88,88.1,7.71,0.92,185.73,19.88,40.37,78667502,,,,,2021
+Eastern Africa,Burundi,57.77,6.11,56.3,85.6,21.58,6.16,20.25,1.6,0.54,138.0,36.7,45.17,9455733,BDI,Burundi,Gitega,Burundi,2011
+Eastern Africa,Burundi,58.49,5.99,53.5,80.5,21.1,6.5,22.94,1.59,0.49,133.0,35.42,45.49,9795479,BDI,Burundi,Gitega,Burundi,2012
+Eastern Africa,Burundi,59.24,5.89,50.8,75.7,21.34,6.9,24.99,1.58,0.43,128.0,38.37,45.83,10149577,BDI,Burundi,Gitega,Burundi,2013
+Eastern Africa,Burundi,59.87,5.79,48.4,71.6,22.07,7.0,30.43,1.57,0.4,126.0,34.96,46.17,10494913,BDI,Burundi,Gitega,Burundi,2014
+Eastern Africa,Burundi,60.22,5.7,46.3,67.9,23.33,7.89,46.59,1.52,0.36,122.0,30.68,46.8,10727148,BDI,Burundi,Gitega,Burundi,2015
+Eastern Africa,Burundi,60.79,5.59,44.5,64.6,24.08,8.48,49.14,1.38,0.31,118.0,31.54,47.48,10903327,BDI,Burundi,Gitega,Burundi,2016
+Eastern Africa,Burundi,61.55,5.48,42.9,61.7,24.55,9.3,53.07,1.26,0.24,114.0,28.55,47.72,11155593,BDI,Burundi,Gitega,Burundi,2017
+Eastern Africa,Burundi,61.69,5.38,41.3,59.1,24.79,9.51,54.97,1.14,0.19,111.0,29.01,47.53,11493472,BDI,Burundi,Gitega,Burundi,2018
+Eastern Africa,Burundi,62.35,5.27,40.0,56.7,25.48,9.84,55.01,1.03,0.16,107.0,28.84,47.11,11874838,BDI,Burundi,Gitega,Burundi,2019
+Eastern Africa,Burundi,61.57,5.18,38.8,54.6,26.8,9.1,54.26,1.03,0.14,103.0,28.62,46.72,12220227,BDI,Burundi,Gitega,Burundi,2020
+Eastern Africa,Burundi,61.66,5.08,37.6,52.6,27.35,10.23,61.67,1.14,0.13,100.0,28.66,46.29,12551213,BDI,Burundi,Gitega,Burundi,2021
+Eastern Africa,Comoros,61.5,4.72,53.1,70.3,14.0,69.33,32.3,4.62,0.02,34.0,30.56,41.52,670071,COM,Comoros,Moroni,Comoros,2011
+Eastern Africa,Comoros,61.83,4.64,51.6,68.0,13.7,69.3,41.42,4.66,0.02,34.0,30.17,41.07,684553,COM,Comoros,Moroni,Comoros,2012
+Eastern Africa,Comoros,62.22,4.57,50.1,65.8,13.2,69.44,49.69,4.66,0.02,34.0,30.79,40.63,699393,COM,Comoros,Moroni,Comoros,2013
+Eastern Africa,Comoros,62.52,4.49,48.7,63.5,12.8,71.76,53.6,4.76,0.02,35.0,30.01,40.22,714612,COM,Comoros,Moroni,Comoros,2014
+Eastern Africa,Comoros,62.9,4.42,47.2,61.2,12.4,74.08,58.17,4.86,0.02,35.0,30.6,39.85,730216,COM,Comoros,Moroni,Comoros,2015
+Eastern Africa,Comoros,63.24,4.35,45.7,59.0,11.9,76.4,60.89,4.94,0.02,35.0,31.37,39.5,746232,COM,Comoros,Moroni,Comoros,2016
+Eastern Africa,Comoros,63.62,4.28,44.3,56.9,11.6,78.71,61.56,4.91,0.02,35.0,31.9,39.18,761664,COM,Comoros,Moroni,Comoros,2017
+Eastern Africa,Comoros,63.91,4.2,42.9,54.9,11.7,81.02,64.27,4.86,0.02,35.0,33.72,38.91,776313,COM,Comoros,Moroni,Comoros,2018
+Eastern Africa,Comoros,64.07,4.12,41.6,53.1,11.6,83.33,72.72,4.94,0.01,35.0,35.62,38.69,790986,COM,Comoros,Moroni,Comoros,2019
+Eastern Africa,Comoros,64.17,4.05,40.4,51.3,11.9,85.64,96.95,5.78,0.01,35.0,35.8,38.47,806166,COM,Comoros,Moroni,Comoros,2020
+Eastern Africa,Comoros,63.42,3.98,39.3,49.7,13.5,87.94,103.87,5.86,0.01,35.0,35.51,38.26,821625,COM,Comoros,Moroni,Comoros,2021
+Eastern Africa,Djibouti,60.43,3.3,60.8,74.3,28.5,58.12,20.61,26.53,0.55,492.0,26.41,35.69,936811,DJI,Djibouti,Djibouti,Djibouti,2011
+Eastern Africa,Djibouti,60.85,3.24,59.3,72.2,26.9,54.6,22.26,26.32,0.5,455.0,27.11,35.28,954297,DJI,Djibouti,Djibouti,Djibouti,2012
+Eastern Africa,Djibouti,61.22,3.18,57.6,69.9,25.3,58.64,25.12,26.27,0.39,407.0,1.19,34.86,971753,DJI,Djibouti,Djibouti,Djibouti,2013
+Eastern Africa,Djibouti,61.64,3.11,56.1,67.8,22.9,58.89,29.02,26.27,0.34,306.0,1.23,34.39,989087,DJI,Djibouti,Djibouti,Djibouti,2014
+Eastern Africa,Djibouti,61.96,3.07,54.5,65.6,21.3,59.13,31.24,26.1,0.31,334.0,1.06,33.88,1006259,DJI,Djibouti,Djibouti,Djibouti,2015
+Eastern Africa,Djibouti,62.19,3.01,53.1,63.8,20.2,59.84,33.74,25.97,0.28,308.0,1.0,33.34,1023261,DJI,Djibouti,Djibouti,Djibouti,2016
+Eastern Africa,Djibouti,62.8,2.97,51.7,61.9,19.9,60.2,35.86,26.06,0.27,247.0,1.29,32.77,1040233,DJI,Djibouti,Djibouti,Djibouti,2017
+Eastern Africa,Djibouti,63.04,2.93,50.3,59.9,19.4,62.41,37.37,26.22,0.24,236.0,1.42,32.2,1057198,DJI,Djibouti,Djibouti,Djibouti,2018
+Eastern Africa,Djibouti,63.08,2.89,48.7,57.9,19.0,64.7,38.54,26.31,0.21,212.0,1.52,31.67,1073994,DJI,Djibouti,Djibouti,Djibouti,2019
+Eastern Africa,Djibouti,62.69,2.85,47.2,56.0,17.3,64.5,39.81,27.85,0.2,195.0,1.68,31.19,1090156,DJI,Djibouti,Djibouti,Djibouti,2020
+Eastern Africa,Djibouti,62.3,2.8,45.9,54.1,16.8,65.44,44.26,27.96,0.19,203.0,1.84,30.77,1105557,DJI,Djibouti,Djibouti,Djibouti,2021
+Eastern Africa,Eastern Africa,59.37,5.1,50.82,76.55,21.58,22.2,38.26,4.5,2.7,312.2,26.41,44.88,44531715,,,,,2011
+Eastern Africa,Eastern Africa,60.18,4.97,48.89,72.86,21.1,25.53,42.93,4.24,2.57,297.68,27.11,44.64,45809378,,,,,2012
+Eastern Africa,Eastern Africa,60.94,4.87,47.22,69.46,21.34,25.38,46.56,4.09,2.39,279.89,26.15,44.38,47088173,,,,,2013
+Eastern Africa,Eastern Africa,61.54,4.77,45.68,66.48,22.07,26.21,50.87,4.08,2.21,267.21,25.0,44.12,48411215,,,,,2014
+Eastern Africa,Eastern Africa,62.12,4.69,44.25,63.84,23.33,27.8,57.94,4.16,2.02,251.88,24.24,43.85,49803440,,,,,2015
+Eastern Africa,Eastern Africa,62.73,4.62,42.84,61.2,24.08,35.33,58.34,4.26,1.87,239.55,23.72,43.56,51271076,,,,,2016
+Eastern Africa,Eastern Africa,63.19,4.54,41.48,59.04,24.55,36.96,55.93,4.46,1.69,228.11,23.92,43.25,52794446,,,,,2017
+Eastern Africa,Eastern Africa,63.67,4.48,40.2,56.97,24.79,40.74,48.55,4.4,1.51,217.57,22.85,42.9,54302450,,,,,2018
+Eastern Africa,Eastern Africa,64.09,4.41,39.11,55.18,25.48,42.55,61.35,4.54,1.33,207.96,23.33,42.53,55801870,,,,,2019
+Eastern Africa,Eastern Africa,63.69,4.34,38.15,53.51,26.8,44.33,64.94,5.26,1.17,199.11,24.28,42.14,57339827,,,,,2020
+Eastern Africa,Eastern Africa,63.01,4.26,37.21,51.84,27.35,46.86,70.93,5.38,1.08,193.86,24.43,41.77,58895731,,,,,2021
+Eastern Africa,Eritrea,64.4,4.49,38.0,53.3,21.58,41.2,7.54,6.02,0.36,157.0,26.41,42.42,3207570,ERI,Eritrea,Asmara,Eritrea,2011
+Eastern Africa,Eritrea,64.84,4.41,37.0,51.5,21.1,42.35,9.39,5.89,0.32,160.0,27.11,42.23,3252596,ERI,Eritrea,Asmara,Eritrea,2012
+Eastern Africa,Eritrea,65.07,4.34,36.0,49.8,21.34,43.49,10.76,5.84,0.28,144.0,26.15,42.09,3296367,ERI,Eritrea,Asmara,Eritrea,2013
+Eastern Africa,Eritrea,65.6,4.27,35.0,48.1,22.07,44.63,12.56,5.86,0.23,119.0,25.0,42.12,3323425,ERI,Eritrea,Asmara,Eritrea,2014
+Eastern Africa,Eritrea,66.03,4.22,34.0,46.4,23.33,45.77,14.22,5.99,0.19,102.0,24.24,42.22,3340006,ERI,Eritrea,Asmara,Eritrea,2015
+Eastern Africa,Eritrea,66.29,4.16,33.1,44.9,24.08,46.9,15.04,6.04,0.17,108.0,23.72,42.17,3365287,ERI,Eritrea,Asmara,Eritrea,2016
+Eastern Africa,Eritrea,66.58,4.11,32.2,43.4,24.55,48.02,20.46,6.07,0.17,99.0,23.92,41.99,3396933,ERI,Eritrea,Asmara,Eritrea,2017
+Eastern Africa,Eritrea,67.07,4.06,31.4,41.9,24.79,49.15,48.55,5.93,0.15,89.0,22.85,41.56,3445374,ERI,Eritrea,Asmara,Eritrea,2018
+Eastern Africa,Eritrea,67.3,4.0,30.5,40.6,25.48,50.27,37.47,5.93,0.14,86.0,23.33,41.03,3498818,ERI,Eritrea,Asmara,Eritrea,2019
+Eastern Africa,Eritrea,67.13,3.93,29.7,39.3,26.8,51.39,50.65,6.45,0.13,80.0,24.28,40.42,3555868,ERI,Eritrea,Asmara,Eritrea,2020
+Eastern Africa,Eritrea,66.54,3.87,28.9,38.1,27.35,52.51,49.75,6.51,0.11,74.0,24.43,39.78,3620312,ERI,Eritrea,Asmara,Eritrea,2021
+Eastern Africa,Ethiopia,60.72,5.05,51.9,77.7,20.3,23.0,15.39,2.26,0.44,253.0,41.25,44.6,91817929,ETH,Ethiopia,Addis Abeba,Ethiopia,2011
+Eastern Africa,Ethiopia,61.54,4.88,49.5,73.6,18.9,29.02,21.73,2.24,0.4,239.0,44.33,44.09,94451280,ETH,Ethiopia,Addis Abeba,Ethiopia,2012
+Eastern Africa,Ethiopia,62.37,4.72,47.3,69.6,17.3,30.78,26.42,2.25,0.36,224.0,41.24,43.57,97084366,ETH,Ethiopia,Addis Abeba,Ethiopia,2013
+Eastern Africa,Ethiopia,62.9,4.61,45.2,65.9,15.6,27.2,30.57,2.35,0.32,207.0,38.52,43.04,99746766,ETH,Ethiopia,Addis Abeba,Ethiopia,2014
+Eastern Africa,Ethiopia,63.65,4.53,43.2,62.4,14.5,29.0,41.29,2.41,0.27,192.0,36.06,42.52,102471895,ETH,Ethiopia,Addis Abeba,Ethiopia,2015
+Eastern Africa,Ethiopia,64.39,4.47,41.3,59.0,14.1,42.9,48.65,2.51,0.26,177.0,34.7,42.02,105293228,ETH,Ethiopia,Addis Abeba,Ethiopia,2016
+Eastern Africa,Ethiopia,64.84,4.39,39.6,56.0,15.5,44.3,36.6,2.6,0.23,164.0,33.78,41.53,108197950,ETH,Ethiopia,Addis Abeba,Ethiopia,2017
+Eastern Africa,Ethiopia,65.41,4.34,38.0,53.2,18.0,44.84,48.55,2.74,0.21,151.0,31.22,41.08,111129438,ETH,Ethiopia,Addis Abeba,Ethiopia,2018
+Eastern Africa,Ethiopia,65.84,4.32,36.6,50.9,20.7,48.05,36.73,2.85,0.19,140.0,33.63,40.69,114120594,ETH,Ethiopia,Addis Abeba,Ethiopia,2019
+Eastern Africa,Ethiopia,65.37,4.24,35.4,48.7,22.3,51.14,37.97,3.91,0.17,129.0,35.56,40.31,117190911,ETH,Ethiopia,Addis Abeba,Ethiopia,2020
+Eastern Africa,Ethiopia,64.97,4.16,34.3,46.8,21.9,54.19,53.62,3.93,0.17,119.0,37.58,39.96,120283026,ETH,Ethiopia,Addis Abeba,Ethiopia,2021
+Eastern Africa,Kenya,61.05,4.22,37.5,53.9,19.2,36.16,65.86,2.69,2.84,506.0,18.89,43.05,42635144,KEN,Kenya,Nairobi,Kenya,2011
+Eastern Africa,Kenya,61.12,4.09,37.1,52.2,18.3,38.13,70.28,2.66,2.57,471.0,18.83,42.75,43725806,KEN,Kenya,Nairobi,Kenya,2012
+Eastern Africa,Kenya,61.39,3.95,36.0,50.1,18.1,40.09,71.06,2.78,2.32,443.0,18.62,42.4,44792368,KEN,Kenya,Nairobi,Kenya,2013
+Eastern Africa,Kenya,61.82,3.84,34.7,48.1,18.3,36.0,73.38,2.78,2.09,423.0,18.35,42.0,45831863,KEN,Kenya,Nairobi,Kenya,2014
+Eastern Africa,Kenya,61.89,3.8,33.1,45.9,20.0,41.6,80.5,2.77,1.9,380.0,19.47,41.57,46851488,KEN,Kenya,Nairobi,Kenya,2015
+Eastern Africa,Kenya,62.16,3.72,32.2,43.8,21.5,53.1,81.39,2.76,1.66,348.0,20.03,41.11,47894670,KEN,Kenya,Nairobi,Kenya,2016
+Eastern Africa,Kenya,62.48,3.64,31.6,42.4,22.8,55.83,87.47,3.56,1.44,319.0,20.89,40.6,48948137,KEN,Kenya,Nairobi,Kenya,2017
+Eastern Africa,Kenya,62.68,3.58,30.6,40.8,22.2,61.18,99.1,4.3,1.27,292.0,20.31,40.08,49953304,KEN,Kenya,Nairobi,Kenya,2018
+Eastern Africa,Kenya,62.94,3.47,29.7,39.4,23.0,69.7,107.07,5.01,1.21,267.0,20.86,39.53,50951450,KEN,Kenya,Nairobi,Kenya,2019
+Eastern Africa,Kenya,62.68,3.4,29.0,38.6,24.7,71.49,118.13,5.63,1.18,249.0,22.7,38.97,51985780,KEN,Kenya,Nairobi,Kenya,2020
+Eastern Africa,Kenya,61.43,3.34,28.0,37.2,27.8,76.54,122.79,5.69,1.17,249.0,21.48,38.4,53005614,KEN,Kenya,Nairobi,Kenya,2021
+Eastern Africa,Madagascar,63.49,4.61,47.1,69.2,27.2,14.3,38.84,2.55,0.29,238.0,29.05,42.86,22348158,MDG,Madagascar,Antananarivo,Madagascar,2011
+Eastern Africa,Madagascar,63.54,4.47,46.3,68.0,29.3,18.7,38.22,0.6,0.33,236.0,28.0,42.48,22966240,MDG,Madagascar,Antananarivo,Madagascar,2012
+Eastern Africa,Madagascar,63.96,4.36,45.8,67.0,33.0,12.9,35.87,1.0,0.36,233.0,26.49,42.09,23588073,MDG,Madagascar,Antananarivo,Madagascar,2013
+Eastern Africa,Madagascar,64.26,4.25,45.5,66.4,37.7,22.98,40.11,1.39,0.39,233.0,25.85,41.7,24215976,MDG,Madagascar,Antananarivo,Madagascar,2014
+Eastern Africa,Madagascar,64.34,4.18,45.2,66.0,40.4,23.76,43.03,1.79,0.43,233.0,25.74,41.33,24850912,MDG,Madagascar,Antananarivo,Madagascar,2015
+Eastern Africa,Madagascar,65.0,4.16,45.1,65.8,41.9,22.9,31.36,1.77,0.46,233.0,25.13,40.99,25501941,MDG,Madagascar,Antananarivo,Madagascar,2016
+Eastern Africa,Madagascar,65.09,4.11,45.1,65.7,42.8,24.1,33.36,1.76,0.49,233.0,24.55,40.67,26169542,MDG,Madagascar,Antananarivo,Madagascar,2017
+Eastern Africa,Madagascar,65.27,4.04,45.2,65.8,44.7,36.5,39.69,1.76,0.46,233.0,23.97,40.36,26846541,MDG,Madagascar,Antananarivo,Madagascar,2018
+Eastern Africa,Madagascar,65.88,3.98,45.3,66.1,47.1,31.04,47.23,1.76,0.52,233.0,22.96,40.04,27533134,MDG,Madagascar,Antananarivo,Madagascar,2019
+Eastern Africa,Madagascar,65.18,3.92,45.3,66.1,49.5,32.0,56.22,2.21,0.53,233.0,24.69,39.72,28225177,MDG,Madagascar,Antananarivo,Madagascar,2020
+Eastern Africa,Madagascar,64.48,3.85,45.3,66.0,51.0,35.12,56.3,2.25,0.6,233.0,23.19,39.4,28915653,MDG,Madagascar,Antananarivo,Madagascar,2021
+Eastern Africa,Malawi,57.46,5.11,48.5,76.9,12.1,7.6,26.09,4.79,6.78,316.0,23.93,46.58,15146094,MWI,Malawi,Lilongwe,Malawi,2011
+Eastern Africa,Malawi,58.68,4.92,45.6,70.5,12.4,7.4,29.82,4.94,6.37,291.0,23.53,46.55,15581251,MWI,Malawi,Lilongwe,Malawi,2012
+Eastern Africa,Malawi,59.73,4.78,42.8,64.5,12.9,9.0,33.01,4.98,5.74,261.0,23.85,46.44,16024775,MWI,Malawi,Lilongwe,Malawi,2013
+Eastern Africa,Malawi,60.9,4.61,40.4,59.8,13.3,11.9,34.18,4.96,5.1,228.0,23.87,46.25,16477966,MWI,Malawi,Lilongwe,Malawi,2014
+Eastern Africa,Malawi,61.38,4.45,38.6,56.6,13.9,10.8,38.77,4.93,4.52,197.0,22.99,45.99,16938942,MWI,Malawi,Lilongwe,Malawi,2015
+Eastern Africa,Malawi,62.21,4.31,36.9,53.5,14.3,11.0,41.24,5.0,4.08,176.0,22.19,45.66,17405624,MWI,Malawi,Lilongwe,Malawi,2016
+Eastern Africa,Malawi,62.98,4.22,35.5,50.7,15.1,12.7,43.47,5.04,3.39,162.0,22.93,45.26,17881167,MWI,Malawi,Lilongwe,Malawi,2017
+Eastern Africa,Malawi,63.28,4.14,34.2,47.8,15.7,18.02,38.53,5.0,2.81,153.0,21.63,44.8,18367883,MWI,Malawi,Lilongwe,Malawi,2018
+Eastern Africa,Malawi,64.12,4.07,33.0,45.6,16.5,11.2,47.18,4.92,2.4,146.0,23.0,44.29,18867337,MWI,Malawi,Lilongwe,Malawi,2019
+Eastern Africa,Malawi,63.72,4.0,32.1,43.5,17.2,11.5,51.63,5.74,2.22,138.0,22.89,43.73,19377061,MWI,Malawi,Lilongwe,Malawi,2020
+Eastern Africa,Malawi,62.9,3.92,31.2,41.9,17.8,14.19,60.03,5.76,1.93,132.0,22.77,43.16,19889742,MWI,Malawi,Lilongwe,Malawi,2021
+Eastern Africa,Mauritius,73.27,1.55,12.7,14.8,5.1,99.6,100.61,7.45,1.56,11.0,3.7,21.45,1252404,MUS,Mauritius,Port Louis,Mauritius,2011
+Eastern Africa,Mauritius,73.86,1.54,12.9,14.9,5.4,99.37,115.29,7.47,1.45,13.0,3.66,20.99,1255882,MUS,Mauritius,Port Louis,Mauritius,2012
+Eastern Africa,Mauritius,74.02,1.44,13.0,14.9,5.6,99.4,118.82,7.32,1.33,13.0,3.33,20.55,1258927,MUS,Mauritius,Port Louis,Mauritius,2013
+Eastern Africa,Mauritius,74.19,1.43,12.9,14.8,5.7,99.47,127.85,7.47,1.25,13.0,3.19,20.06,1261208,MUS,Mauritius,Port Louis,Mauritius,2014
+Eastern Africa,Mauritius,74.35,1.36,12.9,14.6,5.9,99.57,136.28,7.41,1.16,13.0,3.07,19.52,1262879,MUS,Mauritius,Port Louis,Mauritius,2015
+Eastern Africa,Mauritius,74.39,1.4,12.9,14.6,6.1,99.69,140.2,6.81,1.09,12.0,3.1,18.99,1263747,MUS,Mauritius,Port Louis,Mauritius,2016
+Eastern Africa,Mauritius,74.51,1.44,13.3,14.9,6.2,99.61,142.07,6.75,1.05,12.0,2.99,18.49,1264887,MUS,Mauritius,Port Louis,Mauritius,2017
+Eastern Africa,Mauritius,74.42,1.41,13.8,15.4,5.9,99.79,148.06,6.43,1.04,13.0,2.56,17.99,1265577,MUS,Mauritius,Port Louis,Mauritius,2018
+Eastern Africa,Mauritius,74.24,1.4,14.5,15.9,6.6,100.0,144.0,6.33,0.97,12.0,2.71,17.5,1265985,MUS,Mauritius,Port Louis,Mauritius,2019
+Eastern Africa,Mauritius,74.18,1.44,14.9,16.3,6.9,99.46,147.39,8.63,0.9,12.0,3.14,17.03,1266014,MUS,Mauritius,Port Louis,Mauritius,2020
+Eastern Africa,Mauritius,73.68,1.41,15.3,16.6,6.8,99.6,151.77,7.72,0.92,12.0,3.28,16.64,1266334,MUS,Mauritius,Port Louis,Mauritius,2021
+Eastern Africa,Mozambique,54.87,5.55,67.8,100.6,16.0,20.2,33.06,3.29,2.7,359.0,26.48,45.48,23760421,MOZ,Mozambique,Maputo,Mozambique,2011
+Eastern Africa,Mozambique,55.64,5.45,65.4,96.4,17.2,21.21,35.96,3.31,2.57,361.0,25.52,45.45,24487611,MOZ,Mozambique,Maputo,Mozambique,2012
+Eastern Africa,Mozambique,56.49,5.34,63.4,92.1,23.5,22.41,49.11,3.34,2.39,361.0,24.25,45.35,25251731,MOZ,Mozambique,Maputo,Mozambique,2013
+Eastern Africa,Mozambique,57.27,5.13,61.9,88.3,31.2,24.8,70.98,3.38,2.21,361.0,24.66,45.18,26038704,MOZ,Mozambique,Maputo,Mozambique,2014
+Eastern Africa,Mozambique,58.15,5.06,60.4,84.0,39.5,24.0,75.01,3.43,2.02,361.0,23.57,44.96,26843246,MOZ,Mozambique,Maputo,Mozambique,2015
+Eastern Africa,Mozambique,59.04,4.99,58.9,80.8,40.7,26.22,54.25,3.5,1.87,361.0,23.63,44.71,27696493,MOZ,Mozambique,Maputo,Mozambique,2016
+Eastern Africa,Mozambique,59.77,4.92,56.7,78.4,35.5,24.3,41.57,3.59,1.69,361.0,26.07,44.46,28569441,MOZ,Mozambique,Maputo,Mozambique,2017
+Eastern Africa,Mozambique,60.53,4.85,55.2,76.3,29.5,31.1,47.83,3.67,1.51,361.0,25.54,44.26,29423878,MOZ,Mozambique,Maputo,Mozambique,2018
+Eastern Africa,Mozambique,61.17,4.78,53.6,73.5,27.0,29.69,48.78,3.71,1.33,361.0,24.77,44.06,30285595,MOZ,Mozambique,Maputo,Mozambique,2019
+Eastern Africa,Mozambique,61.17,4.71,52.5,71.6,29.5,30.61,49.6,4.07,1.17,361.0,26.88,43.86,31178239,MOZ,Mozambique,Maputo,Mozambique,2020
+Eastern Africa,Mozambique,59.32,4.64,51.0,69.6,30.5,31.49,42.67,4.25,1.08,361.0,26.89,43.68,32077072,MOZ,Mozambique,Maputo,Mozambique,2021
+Eastern Africa,Rwanda,63.26,4.36,40.8,58.6,33.0,10.8,42.04,11.8,1.45,80.0,23.83,41.93,10576932,RWA,Rwanda,Kigali,Rwanda,2011
+Eastern Africa,Rwanda,64.01,4.23,39.0,55.2,33.0,17.5,52.5,11.7,1.36,72.0,24.76,41.74,10840334,RWA,Rwanda,Kigali,Rwanda,2012
+Eastern Africa,Rwanda,64.43,4.16,37.3,52.2,33.1,15.2,60.26,11.8,1.24,66.0,24.92,41.59,11101350,RWA,Rwanda,Kigali,Rwanda,2013
+Eastern Africa,Rwanda,64.94,4.11,35.8,49.8,33.0,19.8,68.14,11.87,1.11,65.0,24.69,41.41,11368451,RWA,Rwanda,Kigali,Rwanda,2014
+Eastern Africa,Rwanda,65.3,4.08,34.7,47.7,32.6,22.8,75.24,11.85,1.01,61.0,23.98,41.17,11642959,RWA,Rwanda,Kigali,Rwanda,2015
+Eastern Africa,Rwanda,65.74,4.06,33.8,46.1,31.5,29.37,74.78,11.8,0.93,62.0,25.15,40.86,11930899,RWA,Rwanda,Kigali,Rwanda,2016
+Eastern Africa,Rwanda,65.94,4.03,32.9,44.6,31.4,34.1,72.11,11.88,0.76,58.0,26.35,40.51,12230339,RWA,Rwanda,Kigali,Rwanda,2017
+Eastern Africa,Rwanda,66.25,3.99,32.1,43.4,31.8,37.96,77.41,10.76,0.65,59.0,24.63,40.15,12531808,RWA,Rwanda,Kigali,Rwanda,2018
+Eastern Africa,Rwanda,66.44,3.94,31.2,42.1,32.7,46.6,75.25,11.24,0.58,57.0,23.57,39.76,12835028,RWA,Rwanda,Kigali,Rwanda,2019
+Eastern Africa,Rwanda,66.77,3.87,30.4,40.7,32.4,45.19,80.74,11.83,0.53,57.0,26.66,39.33,13146362,RWA,Rwanda,Kigali,Rwanda,2020
+Eastern Africa,Rwanda,66.07,3.82,29.7,39.4,31.6,48.7,80.99,15.79,0.52,56.0,24.1,38.89,13461888,RWA,Rwanda,Kigali,Rwanda,2021
+Eastern Africa,Seychelles,72.72,2.33,12.3,14.3,5.0,98.08,134.92,4.5,2.7,26.0,2.19,23.82,87441,SYC,Seychelles,Victoria,Seychelles,2011
+Eastern Africa,Seychelles,74.28,2.37,12.4,14.4,5.6,98.3,143.2,4.24,2.57,24.0,2.0,23.57,88303,SYC,Seychelles,Victoria,Seychelles,2012
+Eastern Africa,Seychelles,73.12,2.26,12.4,14.4,5.7,98.0,141.44,4.09,2.39,29.0,2.71,23.48,89949,SYC,Seychelles,Victoria,Seychelles,2013
+Eastern Africa,Seychelles,73.23,2.25,12.5,14.5,5.7,100.0,154.42,4.08,2.21,15.0,2.33,23.39,91359,SYC,Seychelles,Victoria,Seychelles,2014
+Eastern Africa,Seychelles,74.3,2.31,12.5,14.5,5.2,100.0,149.38,4.16,2.02,9.3,2.31,23.33,93419,SYC,Seychelles,Victoria,Seychelles,2015
+Eastern Africa,Seychelles,74.31,2.39,12.5,14.6,4.7,100.0,151.09,4.26,1.87,14.0,2.28,23.33,94677,SYC,Seychelles,Victoria,Seychelles,2016
+Eastern Africa,Seychelles,74.3,2.41,12.6,14.6,4.3,100.0,164.31,4.46,1.69,18.0,2.83,23.37,95843,SYC,Seychelles,Victoria,Seychelles,2017
+Eastern Africa,Seychelles,72.84,2.41,12.5,14.5,4.0,100.0,173.56,4.4,1.51,17.0,2.68,23.36,96762,SYC,Seychelles,Victoria,Seychelles,2018
+Eastern Africa,Seychelles,74.05,2.36,12.4,14.4,4.0,100.0,185.56,4.54,1.33,15.0,2.71,23.32,97625,SYC,Seychelles,Victoria,Seychelles,2019
+Eastern Africa,Seychelles,77.24,2.29,12.2,14.2,3.5,100.0,173.88,5.26,1.17,9.8,2.71,23.24,98462,SYC,Seychelles,Victoria,Seychelles,2020
+Eastern Africa,Seychelles,73.4,2.46,12.0,13.9,4.3,100.0,172.67,5.38,1.08,12.0,2.88,23.16,99258,SYC,Seychelles,Victoria,Seychelles,2021
+Eastern Africa,Somalia,51.3,7.26,93.7,152.7,68.0,52.01,14.73,18.66,2.7,286.0,26.41,48.17,12216837,SOM,Somalia,Mogadishu,Somalia,2011
+Eastern Africa,Somalia,53.16,7.2,91.2,148.1,64.2,51.76,18.49,18.87,2.57,286.0,27.11,48.07,12440326,SOM,Somalia,Mogadishu,Somalia,2012
+Eastern Africa,Somalia,53.84,7.13,88.6,143.4,60.4,51.55,40.33,18.92,2.39,285.0,26.15,47.99,12852485,SOM,Somalia,Mogadishu,Somalia,2013
+Eastern Africa,Somalia,54.28,7.06,86.2,138.9,58.7,51.38,41.32,18.89,2.21,274.0,25.0,47.9,13309235,SOM,Somalia,Mogadishu,Somalia,2014
+Eastern Africa,Somalia,54.86,6.98,83.7,134.5,58.2,51.24,42.4,18.39,2.02,274.0,24.24,47.82,13763906,SOM,Somalia,Mogadishu,Somalia,2015
+Eastern Africa,Somalia,55.04,6.89,81.4,130.3,57.7,51.12,46.55,18.29,1.87,270.0,23.72,47.75,14292847,SOM,Somalia,Mogadishu,Somalia,2016
+Eastern Africa,Somalia,55.65,6.74,79.1,126.1,56.6,52.1,47.89,18.5,1.69,266.0,23.92,47.66,14864221,SOM,Somalia,Mogadishu,Somalia,2017
+Eastern Africa,Somalia,56.38,6.63,77.1,122.5,54.0,50.73,49.66,18.78,1.51,262.0,22.85,47.55,15411094,SOM,Somalia,Mogadishu,Somalia,2018
+Eastern Africa,Somalia,57.08,6.53,74.9,118.6,51.9,49.2,51.48,18.83,1.33,258.0,23.33,47.44,15981300,SOM,Somalia,Mogadishu,Somalia,2019
+Eastern Africa,Somalia,55.97,6.42,72.9,114.9,49.9,49.86,53.48,19.59,1.17,254.0,24.28,47.34,16537016,SOM,Somalia,Mogadishu,Somalia,2020
+Eastern Africa,Somalia,55.28,6.31,71.1,111.8,48.7,49.32,51.82,19.94,1.08,250.0,24.43,47.25,17065581,SOM,Somalia,Mogadishu,Somalia,2021
+Eastern Africa,South Sudan,54.94,5.29,67.0,104.5,21.58,2.78,17.57,12.6,2.07,227.0,4.68,42.34,10243050,SSD,South Sudan,Juba,South Sudan,2011
+Eastern Africa,South Sudan,55.86,5.2,65.1,101.0,21.1,3.3,21.49,12.98,2.08,227.0,6.18,42.07,10701604,SSD,South Sudan,Juba,South Sudan,2012
+Eastern Africa,South Sudan,55.75,5.11,64.0,99.2,21.34,3.81,25.69,12.73,2.04,227.0,9.64,42.02,11106031,SSD,South Sudan,Juba,South Sudan,2013
+Eastern Africa,South Sudan,54.97,5.02,63.8,98.7,22.07,4.31,25.65,12.56,2.02,227.0,7.6,42.71,11213284,SSD,South Sudan,Juba,South Sudan,2014
+Eastern Africa,South Sudan,55.57,4.94,63.8,98.7,23.33,4.81,25.9,12.41,1.95,227.0,10.36,43.53,11194299,SSD,South Sudan,Juba,South Sudan,2015
+Eastern Africa,South Sudan,55.54,4.86,63.8,98.7,24.08,5.3,24.4,13.13,1.98,227.0,23.72,44.45,11066105,SSD,South Sudan,Juba,South Sudan,2016
+Eastern Africa,South Sudan,55.31,4.78,63.8,98.7,24.55,4.2,26.17,13.4,1.95,227.0,23.92,46.02,10658226,SSD,South Sudan,Juba,South Sudan,2017
+Eastern Africa,South Sudan,55.95,4.7,63.8,98.7,24.79,6.29,18.43,13.17,2.03,227.0,22.85,46.85,10395329,SSD,South Sudan,Juba,South Sudan,2018
+Eastern Africa,South Sudan,55.91,4.62,63.8,98.7,25.48,6.77,21.27,12.78,2.07,227.0,23.33,46.38,10447666,SSD,South Sudan,Juba,South Sudan,2019
+Eastern Africa,South Sudan,55.48,4.54,63.8,98.7,20.8,7.26,12.67,14.41,2.07,227.0,24.28,45.5,10606227,SSD,South Sudan,Juba,South Sudan,2020
+Eastern Africa,South Sudan,54.98,4.47,63.8,98.7,21.4,7.75,30.48,14.3,2.05,227.0,24.43,44.71,10748272,SSD,South Sudan,Juba,South Sudan,2021
+Eastern Africa,Tanzania,61.05,5.21,45.5,68.2,21.7,14.2,55.3,3.47,4.11,401.0,24.98,45.07,46416031,TZA,Tanzania,Dodoma,Tanzania,2011
+Eastern Africa,Tanzania,62.03,5.1,44.1,65.2,20.7,15.3,56.96,3.23,4.14,378.0,26.55,45.02,47786137,TZA,Tanzania,Dodoma,Tanzania,2012
+Eastern Africa,Tanzania,62.96,5.12,43.0,62.5,20.3,16.4,55.72,2.93,3.9,336.0,26.79,44.97,49253643,TZA,Tanzania,Dodoma,Tanzania,2013
+Eastern Africa,Tanzania,63.87,5.12,41.9,59.8,20.2,23.5,62.7,2.12,3.68,327.0,25.8,44.91,50814552,TZA,Tanzania,Dodoma,Tanzania,2014
+Eastern Africa,Tanzania,64.65,5.09,41.0,58.0,20.5,26.22,75.49,2.13,3.43,306.0,26.75,44.85,52542823,TZA,Tanzania,Dodoma,Tanzania,2015
+Eastern Africa,Tanzania,65.39,5.03,39.7,55.8,21.1,32.8,73.61,2.19,3.25,287.0,27.44,44.75,54401802,TZA,Tanzania,Dodoma,Tanzania,2016
+Eastern Africa,Tanzania,66.0,4.99,38.2,53.9,21.8,32.1,71.01,2.25,2.96,269.0,28.75,44.59,56267032,TZA,Tanzania,Dodoma,Tanzania,2017
+Eastern Africa,Tanzania,66.54,4.92,36.8,51.9,22.2,34.93,74.88,2.34,2.69,253.0,27.87,44.39,58090443,TZA,Tanzania,Dodoma,Tanzania,2018
+Eastern Africa,Tanzania,66.99,4.86,35.9,50.4,22.3,37.7,79.64,2.44,2.34,237.0,26.59,44.15,59872579,TZA,Tanzania,Dodoma,Tanzania,2019
+Eastern Africa,Tanzania,66.41,4.8,34.9,49.0,22.2,39.9,83.01,2.78,1.88,222.0,25.25,43.88,61704518,TZA,Tanzania,Dodoma,Tanzania,2020
+Eastern Africa,Tanzania,66.2,4.73,34.1,47.1,23.5,42.74,84.99,2.87,1.55,208.0,24.79,43.61,63588334,TZA,Tanzania,Dodoma,Tanzania,2021
+Eastern Africa,Uganda,57.96,5.94,47.1,71.6,18.0,14.6,50.15,3.51,5.16,207.0,28.97,49.7,33295738,UGA,Uganda,Kampala,Uganda,2011
+Eastern Africa,Uganda,58.82,5.78,44.5,66.7,19.3,20.47,47.72,3.55,4.97,205.0,27.18,49.49,34273295,UGA,Uganda,Kampala,Uganda,2012
+Eastern Africa,Uganda,59.76,5.62,42.7,62.5,21.3,13.9,51.22,1.91,4.55,203.0,26.03,49.24,35273570,UGA,Uganda,Kampala,Uganda,2013
+Eastern Africa,Uganda,60.41,5.46,41.0,59.1,24.7,20.4,56.05,2.43,4.16,202.0,24.82,48.92,36336539,UGA,Uganda,Kampala,Uganda,2014
+Eastern Africa,Uganda,61.09,5.31,39.3,56.0,30.2,18.5,53.95,2.79,3.81,202.0,23.47,48.5,37477356,UGA,Uganda,Kampala,Uganda,2015
+Eastern Africa,Uganda,61.65,5.17,37.6,52.7,34.2,26.7,58.94,3.15,3.64,201.0,22.66,47.95,38748299,UGA,Uganda,Kampala,Uganda,2016
+Eastern Africa,Uganda,62.12,5.05,36.0,50.2,35.5,32.39,62.17,3.64,3.32,201.0,23.46,47.33,40127085,UGA,Uganda,Kampala,Uganda,2017
+Eastern Africa,Uganda,62.71,4.93,34.4,47.7,34.1,41.92,58.95,3.38,2.91,200.0,23.25,46.76,41515395,UGA,Uganda,Kampala,Uganda,2018
+Eastern Africa,Uganda,62.99,4.81,33.2,45.6,32.5,41.3,59.13,3.11,2.62,200.0,22.95,46.2,42949080,UGA,Uganda,Kampala,Uganda,2019
+Eastern Africa,Uganda,62.85,4.69,32.1,43.7,31.5,42.14,62.36,3.81,2.41,199.0,23.93,45.67,44404611,UGA,Uganda,Kampala,Uganda,2020
+Eastern Africa,Uganda,62.7,4.58,31.2,42.1,31.6,45.22,65.7,3.42,2.4,199.0,23.84,45.19,45853778,UGA,Uganda,Kampala,Uganda,2021
+Eastern Africa,Zambia,57.77,5.27,50.2,76.5,40.2,28.32,57.23,10.55,10.19,475.0,9.65,46.41,14265814,ZMB,Zambia,Lusaka,Zambia,2011
+Eastern Africa,Zambia,58.87,5.15,49.3,74.5,38.6,29.19,71.38,7.85,9.76,456.0,9.32,46.24,14744658,ZMB,Zambia,Lusaka,Zambia,2012
+Eastern Africa,Zambia,59.88,5.03,48.1,72.0,36.7,30.05,68.24,8.06,9.41,437.0,8.23,46.04,15234976,ZMB,Zambia,Lusaka,Zambia,2013
+Eastern Africa,Zambia,60.7,4.9,47.2,69.5,35.0,27.9,64.27,8.14,9.04,406.0,6.78,45.79,15737793,ZMB,Zambia,Lusaka,Zambia,2014
+Eastern Africa,Zambia,61.21,4.79,47.2,68.2,33.0,31.1,71.13,8.34,8.32,391.0,4.98,45.5,16248230,ZMB,Zambia,Lusaka,Zambia,2015
+Eastern Africa,Zambia,61.79,4.71,45.6,65.3,31.2,35.38,71.67,8.43,7.57,376.0,6.23,45.19,16767761,ZMB,Zambia,Lusaka,Zambia,2016
+Eastern Africa,Zambia,62.12,4.61,44.2,64.2,29.4,40.3,77.69,8.52,7.3,361.0,4.02,44.86,17298054,ZMB,Zambia,Lusaka,Zambia,2017
+Eastern Africa,Zambia,62.34,4.54,43.6,64.2,28.8,40.23,86.74,5.03,6.94,346.0,3.34,44.5,17835893,ZMB,Zambia,Lusaka,Zambia,2018
+Eastern Africa,Zambia,62.79,4.45,42.4,62.6,29.2,43.0,93.69,5.54,5.75,333.0,2.86,44.1,18380477,ZMB,Zambia,Lusaka,Zambia,2019
+Eastern Africa,Zambia,62.38,4.38,41.1,59.7,30.0,44.6,100.93,6.03,4.69,319.0,2.98,43.68,18927715,ZMB,Zambia,Lusaka,Zambia,2020
+Eastern Africa,Zambia,61.22,4.31,40.2,57.7,29.8,46.69,103.97,5.2,4.0,307.0,3.0,43.26,19473125,ZMB,Zambia,Lusaka,Zambia,2021
+Eastern Africa,Zimbabwe,53.35,4.1,51.4,80.6,25.1,36.9,70.63,5.37,9.6,384.0,8.67,43.38,13025785,ZWE,Zimbabwe,Harare,Zimbabwe,2011
+Eastern Africa,Zimbabwe,55.63,4.1,47.0,72.1,25.1,44.0,95.09,5.02,8.65,355.0,8.04,43.45,13265331,ZWE,Zimbabwe,Harare,Zimbabwe,2012
+Eastern Africa,Zimbabwe,57.46,4.06,45.2,66.2,27.0,40.64,100.57,4.93,8.03,304.0,7.14,43.37,13555422,ZWE,Zimbabwe,Harare,Zimbabwe,2013
+Eastern Africa,Zimbabwe,58.85,3.96,43.2,62.6,30.0,32.3,85.15,4.77,7.28,278.0,8.75,43.17,13855753,ZWE,Zimbabwe,Harare,Zimbabwe,2014
+Eastern Africa,Zimbabwe,59.59,3.85,42.1,60.5,32.6,33.7,90.13,5.41,6.5,242.0,8.28,42.87,14154937,ZWE,Zimbabwe,Harare,Zimbabwe,2015
+Eastern Africa,Zimbabwe,60.31,3.77,40.6,57.9,35.1,42.47,89.11,5.92,5.64,233.0,7.87,42.52,14452704,ZWE,Zimbabwe,Harare,Zimbabwe,2016
+Eastern Africa,Zimbabwe,60.71,3.71,39.5,56.2,36.3,43.98,95.53,6.35,4.82,221.0,8.34,42.15,14751101,ZWE,Zimbabwe,Harare,Zimbabwe,2017
+Eastern Africa,Zimbabwe,61.41,3.66,38.0,53.7,38.2,45.4,85.76,6.77,3.8,210.0,7.32,41.8,15052184,ZWE,Zimbabwe,Harare,Zimbabwe,2018
+Eastern Africa,Zimbabwe,61.29,3.6,37.1,52.7,38.9,46.68,85.94,7.37,3.11,199.0,9.82,41.47,15354608,ZWE,Zimbabwe,Harare,Zimbabwe,2019
+Eastern Africa,Zimbabwe,61.12,3.54,36.6,51.8,39.1,52.75,84.19,8.65,2.73,185.0,8.77,41.16,15669666,ZWE,Zimbabwe,Harare,Zimbabwe,2020
+Eastern Africa,Zimbabwe,59.25,3.49,35.7,49.5,38.4,48.98,89.15,9.54,2.37,194.0,8.85,40.89,15993524,ZWE,Zimbabwe,Harare,Zimbabwe,2021
+Middle Africa,Angola,57.6,6.12,71.4,112.2,14.2,34.6,49.77,16.77,1.87,383.0,5.85,45.75,24259111,AGO,Angola,Luanda,Angola,2011
+Middle Africa,Angola,58.62,6.04,67.2,104.9,13.3,37.26,50.76,16.5,1.83,380.0,6.07,45.75,25188292,AGO,Angola,Luanda,Angola,2012
+Middle Africa,Angola,59.31,5.95,63.5,98.3,12.7,38.4,50.81,16.42,1.68,376.0,6.51,45.76,26147002,AGO,Angola,Luanda,Angola,2013
+Middle Africa,Angola,60.04,5.86,60.5,92.9,12.5,32.0,51.8,16.32,1.46,370.0,7.55,45.76,27128337,AGO,Angola,Luanda,Angola,2014
+Middle Africa,Angola,60.66,5.77,57.9,88.3,13.5,42.0,49.36,16.45,1.3,366.0,9.12,45.76,28127721,AGO,Angola,Luanda,Angola,2015
+Middle Africa,Angola,61.09,5.69,55.7,84.4,14.4,41.79,44.59,16.58,1.21,362.0,9.83,45.72,29154746,AGO,Angola,Luanda,Angola,2016
+Middle Africa,Angola,61.68,5.6,53.8,81.1,14.7,42.91,44.11,16.64,1.15,359.0,10.02,45.64,30208628,AGO,Angola,Luanda,Angola,2017
+Middle Africa,Angola,62.14,5.52,52.0,78.0,15.2,45.29,42.49,16.63,1.08,355.0,8.61,45.55,31273533,AGO,Angola,Luanda,Angola,2018
+Middle Africa,Angola,62.45,5.44,50.4,75.0,17.5,45.63,45.84,16.5,1.01,351.0,7.88,45.43,32353588,AGO,Angola,Luanda,Angola,2019
+Middle Africa,Angola,62.26,5.37,48.7,72.1,20.1,46.96,43.81,16.7,0.94,333.0,9.95,45.31,33428486,AGO,Angola,Luanda,Angola,2020
+Middle Africa,Angola,61.64,5.3,47.2,69.4,21.6,48.22,44.42,15.8,0.86,322.0,11.49,45.18,34503774,AGO,Angola,Luanda,Angola,2021
+Middle Africa,Cameroon,57.13,5.06,66.6,105.9,4.0,53.7,51.28,4.0,2.68,251.0,16.7,43.75,20448873,CMR,Cameroon,Yaounde,Cameroon,2011
+Middle Africa,Cameroon,57.79,4.99,64.3,101.5,3.7,55.16,62.32,3.84,2.44,242.0,16.66,43.7,21032684,CMR,Cameroon,Yaounde,Cameroon,2012
+Middle Africa,Cameroon,58.48,4.91,61.6,96.9,3.8,56.32,72.41,3.69,2.13,235.0,16.72,43.63,21632850,CMR,Cameroon,Yaounde,Cameroon,2013
+Middle Africa,Cameroon,58.94,4.86,59.5,92.5,4.1,56.8,76.41,3.53,1.98,220.0,16.83,43.46,22299585,CMR,Cameroon,Yaounde,Cameroon,2014
+Middle Africa,Cameroon,59.66,4.83,57.1,88.1,4.4,58.62,78.92,3.51,1.85,212.0,17.21,43.26,23012646,CMR,Cameroon,Yaounde,Cameroon,2015
+Middle Africa,Cameroon,60.23,4.82,55.3,84.3,5.0,59.76,78.94,3.52,1.68,203.0,17.19,43.14,23711630,CMR,Cameroon,Yaounde,Cameroon,2016
+Middle Africa,Cameroon,60.81,4.77,53.2,80.8,5.6,60.9,82.55,3.58,1.41,194.0,16.69,43.06,24393181,CMR,Cameroon,Yaounde,Cameroon,2017
+Middle Africa,Cameroon,61.18,4.69,51.5,77.7,5.9,62.2,73.6,3.63,1.18,186.0,16.5,42.97,25076747,CMR,Cameroon,Yaounde,Cameroon,2018
+Middle Africa,Cameroon,61.58,4.62,50.1,75.1,5.8,63.18,83.01,3.66,1.04,179.0,16.8,42.81,25782341,CMR,Cameroon,Yaounde,Cameroon,2019
+Middle Africa,Cameroon,60.83,4.54,48.5,72.4,5.6,64.31,84.37,3.99,0.88,171.0,17.5,42.63,26491087,CMR,Cameroon,Yaounde,Cameroon,2020
+Middle Africa,Cameroon,60.33,4.46,47.0,69.8,6.4,65.45,79.97,4.14,0.77,164.0,16.97,42.43,27198628,CMR,Cameroon,Yaounde,Cameroon,2021
+Middle Africa,Central African Republic,49.95,5.96,89.3,126.4,34.9,10.44,20.97,5.73,2.84,540.0,37.57,46.33,4732022,CAF,Central African Republic,Bangui,Central African Republic,2011
+Middle Africa,Central African Republic,50.69,6.01,87.8,123.3,37.4,10.97,23.95,5.68,2.59,540.0,36.81,46.89,4773306,CAF,Central African Republic,Bangui,Central African Republic,2012
+Middle Africa,Central African Republic,50.9,6.02,86.9,121.1,42.1,11.5,28.33,5.72,2.39,540.0,32.26,47.49,4802428,CAF,Central African Republic,Bangui,Central African Republic,2013
+Middle Africa,Central African Republic,50.57,6.02,85.3,118.6,46.9,12.04,24.08,5.83,2.19,540.0,33.99,48.27,4798734,CAF,Central African Republic,Bangui,Central African Republic,2014
+Middle Africa,Central African Republic,52.79,6.04,83.7,115.5,49.1,12.71,25.78,6.01,1.91,540.0,31.53,48.75,4819333,CAF,Central African Republic,Bangui,Central African Republic,2015
+Middle Africa,Central African Republic,53.46,6.04,82.4,112.7,48.0,13.4,25.45,6.06,1.7,540.0,31.92,48.7,4904177,CAF,Central African Republic,Bangui,Central African Republic,2016
+Middle Africa,Central African Republic,53.72,6.05,81.7,110.9,46.7,14.07,23.52,6.11,1.54,540.0,32.79,48.64,4996741,CAF,Central African Republic,Bangui,Central African Republic,2017
+Middle Africa,Central African Republic,54.37,6.04,80.3,108.8,44.5,14.64,25.11,6.02,1.35,540.0,31.24,48.58,5094780,CAF,Central African Republic,Bangui,Central African Republic,2018
+Middle Africa,Central African Republic,55.02,6.01,78.6,105.9,44.8,14.3,30.62,6.08,1.2,540.0,28.34,48.43,5209324,CAF,Central African Republic,Bangui,Central African Republic,2019
+Middle Africa,Central African Republic,54.6,5.98,77.2,103.0,45.7,15.41,34.27,6.66,1.04,540.0,29.5,48.21,5343020,CAF,Central African Republic,Bangui,Central African Republic,2020
+Middle Africa,Central African Republic,53.9,5.98,75.4,99.9,48.7,15.68,33.55,6.81,0.95,540.0,35.76,48.18,5457154,CAF,Central African Republic,Bangui,Central African Republic,2021
+Middle Africa,Chad,50.01,6.95,82.7,144.5,24.2,8.98,29.76,0.86,0.8,147.0,22.81,48.58,12317730,TCD,Chad,N'Djamena,Chad,2011
+Middle Africa,Chad,50.54,6.9,81.0,140.6,23.8,7.79,34.51,0.85,0.78,146.0,24.58,48.53,12754906,TCD,Chad,N'Djamena,Chad,2012
+Middle Africa,Chad,50.78,6.84,79.3,136.9,24.1,8.09,34.51,0.91,0.75,146.0,22.92,48.44,13216766,TCD,Chad,N'Djamena,Chad,2013
+Middle Africa,Chad,51.2,6.78,77.8,133.3,25.5,8.43,38.34,0.88,0.7,145.0,25.47,48.33,13697126,TCD,Chad,N'Djamena,Chad,2014
+Middle Africa,Chad,51.59,6.71,76.1,129.5,26.2,7.7,38.65,0.93,0.64,144.0,30.46,48.35,14140274,TCD,Chad,N'Djamena,Chad,2015
+Middle Africa,Chad,52.08,6.62,74.5,125.8,26.1,9.25,38.28,1.02,0.59,144.0,26.97,48.34,14592585,TCD,Chad,N'Djamena,Chad,2016
+Middle Africa,Chad,52.31,6.54,72.7,121.9,26.0,10.9,42.22,1.11,0.58,143.0,32.81,48.23,15085884,TCD,Chad,N'Djamena,Chad,2017
+Middle Africa,Chad,52.82,6.46,71.0,118.0,26.8,10.06,44.76,1.13,0.51,142.0,28.0,48.08,15604210,TCD,Chad,N'Djamena,Chad,2018
+Middle Africa,Chad,53.26,6.41,69.3,114.3,28.1,8.4,47.53,1.06,0.44,142.0,24.14,47.94,16126866,TCD,Chad,N'Djamena,Chad,2019
+Middle Africa,Chad,52.78,6.35,67.6,110.5,29.8,10.87,52.19,1.68,0.37,141.0,27.06,47.82,16644701,TCD,Chad,N'Djamena,Chad,2020
+Middle Africa,Chad,52.52,6.26,66.0,107.1,31.4,11.27,60.22,1.59,0.31,140.0,25.3,47.66,17179740,TCD,Chad,N'Djamena,Chad,2021
+Middle Africa,Congo,61.99,4.79,41.9,60.1,38.8,40.82,84.74,19.37,3.03,383.0,3.98,40.82,4584216,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2011
+Middle Africa,Congo,62.32,4.75,40.9,58.2,35.8,41.6,90.87,19.44,3.1,382.0,3.8,41.13,4713257,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2012
+Middle Africa,Congo,62.7,4.69,39.8,56.4,31.0,42.5,96.51,19.88,3.23,382.0,4.26,41.49,4828066,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2013
+Middle Africa,Congo,62.95,4.63,38.8,54.6,27.9,43.4,99.7,19.71,3.19,381.0,4.56,41.78,4944861,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2014
+Middle Africa,Congo,63.23,4.56,37.7,52.8,27.7,44.33,102.99,20.27,3.17,379.0,5.81,42.0,5064386,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2015
+Middle Africa,Congo,63.58,4.49,36.7,51.0,28.5,45.28,104.57,20.72,3.44,378.0,6.76,42.11,5186824,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2016
+Middle Africa,Congo,63.76,4.43,35.7,49.3,30.2,46.21,95.17,21.21,3.81,376.0,7.31,42.1,5312340,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2017
+Middle Africa,Congo,64.05,4.37,34.8,47.7,30.8,47.04,91.89,21.28,3.82,375.0,6.79,42.03,5441062,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2018
+Middle Africa,Congo,62.75,4.3,35.9,52.4,31.1,47.73,91.82,20.81,4.0,373.0,7.35,41.89,5570733,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2019
+Middle Africa,Congo,63.78,4.23,32.9,44.5,32.0,48.68,98.52,22.67,4.32,372.0,10.69,41.67,5702174,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2020
+Middle Africa,Congo,63.52,4.17,32.0,43.0,33.3,49.66,96.79,22.62,3.8,370.0,9.1,41.4,5835806,COG,Republic of Congo,Brazzaville,"Congo, Rep.",2021
+Middle Africa,Democratic Republic of the Congo,57.07,6.58,81.8,110.7,28.4,13.73,22.79,4.34,0.7,327.0,20.92,46.12,68654269,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2011
+Middle Africa,Democratic Republic of the Congo,57.25,6.56,79.5,106.8,29.2,15.4,28.3,4.49,0.67,327.0,20.44,46.13,70997870,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2012
+Middle Africa,Democratic Republic of the Congo,57.76,6.53,77.4,103.3,29.4,15.17,38.43,4.47,0.63,326.0,19.32,46.17,73460021,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2013
+Middle Africa,Democratic Republic of the Congo,58.3,6.48,75.3,99.7,29.6,13.5,48.8,4.43,0.56,325.0,18.56,46.21,76035588,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2014
+Middle Africa,Democratic Republic of the Congo,58.49,6.44,73.4,96.5,30.2,16.58,48.0,4.43,0.54,324.0,18.37,46.25,78656904,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2015
+Middle Africa,Democratic Republic of the Congo,59.07,6.39,71.5,93.4,30.8,17.29,35.48,4.56,0.51,323.0,18.6,46.26,81430977,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2016
+Middle Africa,Democratic Republic of the Congo,59.41,6.35,69.5,90.3,31.2,17.99,41.97,4.68,0.47,322.0,19.7,46.28,84283273,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2017
+Middle Africa,Democratic Republic of the Congo,59.94,6.3,67.6,87.2,31.0,18.68,41.88,4.7,0.42,321.0,18.89,46.35,87087355,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2018
+Middle Africa,Democratic Republic of the Congo,60.28,6.25,65.9,84.4,32.5,19.1,41.29,4.67,0.37,320.0,19.43,46.44,89906890,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2019
+Middle Africa,Democratic Republic of the Congo,59.74,6.21,64.1,81.7,33.9,20.07,43.94,5.49,0.3,319.0,20.88,46.49,92853164,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2020
+Middle Africa,Democratic Republic of the Congo,59.19,6.16,62.4,79.0,35.3,20.77,48.89,5.51,0.26,318.0,19.04,46.53,95894118,COD,Democratic Republic of the Congo,Kinshasa,"Congo, Dem. Rep.",2021
+Middle Africa,Gabon,64.04,4.15,40.1,59.3,15.9,88.73,133.72,19.76,2.32,554.0,3.43,37.21,1772500,GAB,Gabon,Libreville,Gabon,2011
+Middle Africa,Gabon,64.59,4.09,38.7,56.8,15.4,89.3,139.26,19.47,2.1,550.0,3.35,37.03,1836705,GAB,Gabon,Libreville,Gabon,2012
+Middle Africa,Gabon,64.78,4.02,37.3,54.2,15.4,86.4,144.32,19.56,1.83,546.0,3.33,36.86,1902226,GAB,Gabon,Libreville,Gabon,2013
+Middle Africa,Gabon,64.97,3.95,36.5,52.2,15.7,87.08,149.11,19.73,1.58,541.0,3.62,36.74,1966855,GAB,Gabon,Libreville,Gabon,2014
+Middle Africa,Gabon,65.46,3.89,35.3,50.4,16.3,87.33,139.09,19.82,1.39,537.0,4.31,36.66,2028517,GAB,Gabon,Libreville,Gabon,2015
+Middle Africa,Gabon,65.8,3.82,34.0,48.4,17.4,88.08,142.0,20.04,1.49,533.0,4.97,36.63,2086206,GAB,Gabon,Libreville,Gabon,2016
+Middle Africa,Gabon,66.19,3.75,33.2,46.6,18.4,86.27,124.44,20.28,1.35,529.0,5.27,36.63,2140215,GAB,Gabon,Libreville,Gabon,2017
+Middle Africa,Gabon,66.31,3.68,32.2,44.9,19.5,89.57,133.69,20.48,1.29,525.0,5.44,36.63,2192012,GAB,Gabon,Libreville,Gabon,2018
+Middle Africa,Gabon,66.6,3.62,31.2,43.2,20.9,90.32,133.44,20.37,1.13,521.0,5.55,36.6,2242785,GAB,Gabon,Libreville,Gabon,2019
+Middle Africa,Gabon,66.53,3.55,29.8,41.0,22.1,91.06,133.02,21.43,1.03,517.0,6.63,36.53,2292573,GAB,Gabon,Libreville,Gabon,2020
+Middle Africa,Gabon,65.82,3.49,29.4,39.7,23.0,91.81,134.32,21.41,1.15,513.0,6.02,36.42,2341179,GAB,Gabon,Libreville,Gabon,2021
+Middle Africa,Middle Africa,56.56,6.19,76.08,111.37,22.26,24.8,35.95,6.94,1.38,321.29,17.56,45.63,43214118,,,,,2011
+Middle Africa,Middle Africa,57.02,6.15,73.58,106.91,22.39,26.26,41.34,6.95,1.31,319.1,17.46,45.65,44729341,,,,,2012
+Middle Africa,Middle Africa,57.55,6.1,71.22,102.79,22.42,26.55,48.32,6.93,1.21,316.69,16.68,45.69,46330473,,,,,2013
+Middle Africa,Middle Africa,58.07,6.05,69.08,98.87,22.69,24.72,54.67,6.86,1.09,312.5,16.78,45.71,48015457,,,,,2014
+Middle Africa,Middle Africa,58.51,6.0,67.04,95.25,23.33,28.33,54.3,6.92,1.02,309.75,17.44,45.72,49731437,,,,,2015
+Middle Africa,Middle Africa,59.04,5.95,65.19,91.92,23.87,29.0,47.13,7.03,0.96,307.09,17.41,45.7,51537451,,,,,2016
+Middle Africa,Middle Africa,59.45,5.89,63.31,88.76,24.24,29.88,50.57,7.14,0.89,304.43,18.5,45.68,53392219,,,,,2017
+Middle Africa,Middle Africa,59.93,5.83,61.55,85.7,24.31,30.83,49.17,7.17,0.8,301.81,17.3,45.67,55209500,,,,,2018
+Middle Africa,Middle Africa,60.24,5.78,60.02,83.08,25.63,31.1,51.23,7.11,0.74,299.4,17.07,45.65,57032966,,,,,2019
+Middle Africa,Middle Africa,59.8,5.72,58.27,80.09,27.02,32.26,53.1,7.76,0.66,294.28,18.7,45.61,58939373,,,,,2020
+Middle Africa,Middle Africa,59.27,5.66,56.69,77.4,28.42,33.06,55.73,7.61,0.59,290.53,17.94,45.55,60914253,,,,,2021
+Middle Africa,Sao Tome and Principe,64.9,4.72,25.8,33.3,16.2,62.61,61.83,14.23,0.36,129.0,12.33,42.04,186044,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2011
+Middle Africa,Sao Tome and Principe,65.75,4.67,23.9,30.5,16.1,57.9,64.33,13.59,0.31,107.0,12.87,42.08,189924,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2012
+Middle Africa,Sao Tome and Principe,66.33,4.6,22.0,27.8,15.9,64.96,64.68,13.75,0.27,134.0,13.41,42.23,193757,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2013
+Middle Africa,Sao Tome and Principe,66.84,4.51,20.2,25.4,16.2,68.6,65.06,13.6,0.23,141.0,13.28,42.3,197497,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2014
+Middle Africa,Sao Tome and Principe,67.25,4.39,18.6,23.3,16.1,67.31,91.97,13.56,0.2,156.0,14.13,42.27,201124,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2015
+Middle Africa,Sao Tome and Principe,67.49,4.27,17.1,21.4,15.8,69.36,87.01,13.62,0.16,162.0,13.05,42.12,204632,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2016
+Middle Africa,Sao Tome and Principe,68.27,4.14,15.7,19.7,15.3,74.27,83.62,13.84,0.12,117.0,12.75,41.87,208036,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2017
+Middle Africa,Sao Tome and Principe,68.36,4.04,14.5,18.3,15.3,71.0,76.94,13.92,0.09,124.0,11.82,41.54,211344,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2018
+Middle Africa,Sao Tome and Principe,68.52,3.96,13.6,17.1,14.9,75.12,77.24,14.08,0.08,114.0,11.93,41.13,214599,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2019
+Middle Africa,Sao Tome and Principe,67.78,3.89,12.8,16.2,13.5,76.81,79.68,15.37,0.07,115.0,14.15,40.61,218641,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2020
+Middle Africa,Sao Tome and Principe,67.59,3.82,12.1,15.4,13.1,78.45,84.82,15.41,0.06,114.0,15.27,40.04,223107,STP,Sao Tome and Principe,Sao Tome,Sao Tome and Principe,2021
+Northern Africa,Algeria,74.12,2.88,23.3,27.1,3.7,99.0,97.46,9.96,0.04,73.0,8.11,27.64,36543541,DZA,Algeria,Algier,Algeria,2011
+Northern Africa,Algeria,74.2,2.96,22.8,26.5,3.1,98.76,100.72,10.97,0.04,73.0,8.77,27.83,37260563,DZA,Algeria,Algier,Algeria,2012
+Northern Africa,Algeria,74.61,2.96,22.4,26.1,2.9,99.19,103.99,9.82,0.05,68.0,9.85,28.16,38000626,DZA,Algeria,Algier,Algeria,2013
+Northern Africa,Algeria,75.11,3.0,22.0,25.7,2.7,99.27,111.71,10.21,0.06,72.0,10.29,28.57,38760168,DZA,Algeria,Algier,Algeria,2014
+Northern Africa,Algeria,75.62,3.04,21.7,25.3,2.6,99.36,109.32,11.21,0.07,75.0,11.58,29.0,39543154,DZA,Algeria,Algier,Algeria,2015
+Northern Africa,Algeria,75.73,3.05,21.4,24.9,2.6,99.43,116.61,10.2,0.08,70.0,12.22,29.44,40339329,DZA,Algeria,Algier,Algeria,2016
+Northern Africa,Algeria,75.74,3.05,21.0,24.5,2.6,99.53,111.45,12.0,0.07,70.0,11.76,29.85,41136546,DZA,Algeria,Algier,Algeria,2017
+Northern Africa,Algeria,76.07,3.02,20.6,24.0,2.5,99.64,112.47,12.14,0.07,69.0,11.87,30.21,41927007,DZA,Algeria,Algier,Algeria,2018
+Northern Africa,Algeria,76.47,2.99,20.1,23.5,2.5,99.5,106.37,12.28,0.07,61.0,12.34,30.47,42705368,DZA,Algeria,Algier,Algeria,2019
+Northern Africa,Algeria,74.45,2.94,19.6,22.9,2.5,99.72,104.84,14.04,0.07,58.0,13.78,30.65,43451666,DZA,Algeria,Algier,Algeria,2020
+Northern Africa,Algeria,76.38,2.89,19.2,22.3,2.5,99.79,106.42,13.73,0.07,54.0,12.18,30.71,44177969,DZA,Algeria,Algier,Algeria,2021
+Northern Africa,Egypt,69.88,3.25,23.1,27.6,4.9,99.44,93.53,11.85,0.05,17.0,13.87,33.22,89200054,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2011
+Northern Africa,Egypt,70.08,3.34,22.3,26.4,5.1,99.7,106.09,12.6,0.05,17.0,11.27,33.22,91240376,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2012
+Northern Africa,Egypt,70.05,3.42,21.4,25.3,5.3,99.88,106.78,13.15,0.05,16.0,11.27,33.27,93377890,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2013
+Northern Africa,Egypt,70.42,3.44,20.6,24.3,5.5,99.8,99.71,13.1,0.05,15.0,11.34,33.36,95592324,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2014
+Northern Africa,Egypt,70.48,3.44,19.9,23.4,5.8,99.3,96.21,13.05,0.05,15.0,11.39,33.48,97723799,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2015
+Northern Africa,Egypt,70.84,3.2,19.2,22.6,6.0,100.0,98.0,12.45,0.05,14.0,11.77,33.53,99784030,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2016
+Northern Africa,Egypt,71.3,3.15,18.6,21.8,6.4,100.0,101.15,11.77,0.05,13.0,10.99,33.5,101789386,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2017
+Northern Africa,Egypt,71.37,3.1,17.9,21.0,6.3,100.0,90.4,9.86,0.04,12.0,10.83,33.44,103740765,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2018
+Northern Africa,Egypt,71.36,3.0,17.3,20.3,6.3,100.0,90.27,7.85,0.04,12.0,10.7,33.34,105618671,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2019
+Northern Africa,Egypt,70.99,2.96,16.8,19.6,6.4,100.0,88.73,7.97,0.04,11.0,11.17,33.21,107465134,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2020
+Northern Africa,Egypt,70.22,2.92,16.2,19.0,7.2,100.0,94.68,7.44,0.04,10.0,11.44,33.05,109262178,EGY,Egypt,Cairo,"Egypt, Arab Rep.",2021
+Northern Africa,Libya,70.07,2.65,15.0,19.5,6.5,80.29,161.6,19.38,0.13,40.0,3.06,31.1,6188132,LBY,Libya,Tripolis,Libya,2011
+Northern Africa,Libya,72.25,2.68,12.9,15.0,5.2,78.68,163.33,19.03,0.13,40.0,1.82,32.41,5869870,LBY,Libya,Tripolis,Libya,2012
+Northern Africa,Libya,72.34,2.72,12.3,14.4,4.8,77.07,171.01,19.39,0.12,40.0,2.42,32.1,5985221,LBY,Libya,Tripolis,Libya,2013
+Northern Africa,Libya,71.51,2.75,11.8,13.8,5.4,75.45,139.35,19.37,0.12,40.0,3.52,31.8,6097764,LBY,Libya,Tripolis,Libya,2014
+Northern Africa,Libya,71.7,2.71,11.4,13.3,6.1,73.83,157.41,19.68,0.12,40.0,4.39,31.55,6192235,LBY,Libya,Tripolis,Libya,2015
+Northern Africa,Libya,71.76,2.67,10.9,12.8,6.6,72.21,121.93,19.42,0.12,40.0,4.61,31.26,6282196,LBY,Libya,Tripolis,Libya,2016
+Northern Africa,Libya,72.48,2.63,10.6,12.3,6.9,70.58,94.38,18.96,0.11,40.0,3.87,30.88,6378261,LBY,Libya,Tripolis,Libya,2017
+Northern Africa,Libya,72.79,2.58,10.2,11.9,7.1,67.0,95.21,18.83,0.11,40.0,3.66,30.42,6477793,LBY,Libya,Tripolis,Libya,2018
+Northern Africa,Libya,72.46,2.54,9.9,11.5,7.7,68.47,173.54,18.97,0.1,59.0,4.09,29.92,6569088,LBY,Libya,Tripolis,Libya,2019
+Northern Africa,Libya,72.47,2.51,9.5,11.1,7.9,69.37,174.69,19.71,0.1,59.0,3.59,29.4,6653942,LBY,Libya,Tripolis,Libya,2020
+Northern Africa,Libya,71.91,2.46,9.2,10.8,8.4,70.21,206.7,19.71,0.1,59.0,1.7,28.86,6735277,LBY,Libya,Tripolis,Libya,2021
+Northern Africa,Morocco,71.27,2.61,25.4,29.5,4.6,96.07,111.51,8.91,0.08,100.0,12.08,28.7,32903699,MAR,Morocco,Rabat,Morocco,2011
+Northern Africa,Morocco,71.68,2.6,24.0,27.9,4.4,96.44,117.37,8.99,0.07,99.0,11.33,28.49,33352169,MAR,Morocco,Rabat,Morocco,2012
+Northern Africa,Morocco,72.12,2.59,22.7,26.4,4.1,97.2,125.83,9.23,0.06,99.0,12.36,28.3,33803527,MAR,Morocco,Rabat,Morocco,2013
+Northern Africa,Morocco,72.54,2.55,21.4,24.9,4.0,97.28,129.02,9.7,0.06,101.0,10.35,28.14,34248603,MAR,Morocco,Rabat,Morocco,2014
+Northern Africa,Morocco,72.92,2.53,20.3,23.6,3.8,97.3,124.28,9.46,0.05,102.0,11.8,27.99,34680458,MAR,Morocco,Rabat,Morocco,2015
+Northern Africa,Morocco,73.28,2.45,19.2,22.4,3.7,97.8,118.18,9.3,0.05,103.0,10.32,27.82,35107264,MAR,Morocco,Rabat,Morocco,2016
+Northern Africa,Morocco,73.66,2.45,18.3,21.3,3.6,100.0,123.42,9.69,0.05,100.0,11.16,27.64,35528115,MAR,Morocco,Rabat,Morocco,2017
+Northern Africa,Morocco,73.99,2.42,17.5,20.4,3.6,98.1,124.17,9.73,0.05,99.0,11.31,27.48,35927511,MAR,Morocco,Rabat,Morocco,2018
+Northern Africa,Morocco,74.27,2.38,16.7,19.5,4.2,99.6,127.95,9.67,0.04,97.0,10.84,27.3,36304408,MAR,Morocco,Rabat,Morocco,2019
+Northern Africa,Morocco,73.92,2.35,16.1,18.7,5.3,100.0,133.89,11.73,0.04,96.0,10.66,27.09,36688772,MAR,Morocco,Rabat,Morocco,2020
+Northern Africa,Morocco,74.04,2.33,15.4,18.0,6.3,100.0,137.46,11.22,0.04,94.0,12.0,26.85,37076584,MAR,Morocco,Rabat,Morocco,2021
+Northern Africa,Northern Africa,70.05,3.29,27.21,34.63,3.81,88.27,96.62,12.54,0.05,55.74,14.23,32.46,55730603,,,,,2011
+Northern Africa,Northern Africa,70.36,3.33,26.34,33.36,3.71,88.75,104.44,13.07,0.05,55.32,14.13,32.52,57092491,,,,,2012
+Northern Africa,Northern Africa,70.47,3.38,25.49,32.26,5.29,89.35,106.36,13.09,0.05,53.37,13.8,32.58,58432246,,,,,2013
+Northern Africa,Northern Africa,70.84,3.39,24.71,31.24,5.28,89.55,104.59,13.08,0.05,52.91,14.18,32.67,59831446,,,,,2014
+Northern Africa,Northern Africa,71.07,3.39,24.04,30.31,5.45,89.75,102.09,13.14,0.05,52.73,14.56,32.77,61198869,,,,,2015
+Northern Africa,Northern Africa,71.31,3.28,23.36,29.45,5.69,90.44,101.5,12.7,0.05,50.57,13.17,32.84,62531120,,,,,2016
+Northern Africa,Northern Africa,71.68,3.24,22.76,28.61,5.95,91.07,101.82,12.79,0.05,48.65,12.61,32.86,63839346,,,,,2017
+Northern Africa,Northern Africa,71.85,3.2,22.12,27.81,5.98,91.01,95.21,12.04,0.04,46.91,12.78,32.86,65118799,,,,,2018
+Northern Africa,Northern Africa,71.97,3.14,21.52,27.02,6.06,91.57,99.97,11.33,0.04,45.03,12.44,32.84,66352179,,,,,2019
+Northern Africa,Northern Africa,71.31,3.1,20.96,26.22,6.35,91.99,100.34,12.39,0.04,43.09,12.93,32.78,67567133,,,,,2020
+Northern Africa,Northern Africa,71.17,3.05,20.37,25.5,6.93,92.33,104.04,12.04,0.04,40.95,10.42,32.68,68757162,,,,,2021
+Northern Africa,Sudan,63.25,4.96,49.7,73.8,3.81,38.34,72.8,17.44,0.15,105.0,27.85,42.26,34419624,SDN,Sudan,Khartoum,Sudan,2011
+Northern Africa,Sudan,63.79,4.89,48.6,71.9,3.71,40.7,78.67,17.97,0.14,103.0,33.77,42.33,35159792,SDN,Sudan,Khartoum,Sudan,2012
+Northern Africa,Sudan,63.68,4.9,47.5,69.9,9.7,43.1,76.85,18.04,0.14,100.0,29.61,42.33,35990704,SDN,Sudan,Khartoum,Sudan,2013
+Northern Africa,Sudan,64.27,4.91,46.4,68.0,9.3,44.9,75.12,17.74,0.13,94.0,32.62,42.2,37003245,SDN,Sudan,Khartoum,Sudan,2014
+Northern Africa,Sudan,64.66,4.9,45.3,66.0,9.7,48.02,73.19,17.06,0.13,88.0,31.56,41.98,38171178,SDN,Sudan,Khartoum,Sudan,2015
+Northern Africa,Sudan,64.78,4.83,44.2,64.1,10.6,50.5,70.62,17.0,0.13,82.0,22.98,41.77,39377169,SDN,Sudan,Khartoum,Sudan,2016
+Northern Africa,Sudan,65.44,4.76,43.1,62.1,11.1,52.97,70.41,17.14,0.12,77.0,21.23,41.53,40679828,SDN,Sudan,Khartoum,Sudan,2017
+Northern Africa,Sudan,65.68,4.68,42.0,60.3,11.5,55.34,71.67,17.31,0.11,71.0,21.99,41.33,41999059,SDN,Sudan,Khartoum,Sudan,2018
+Northern Africa,Sudan,65.88,4.62,41.0,58.4,11.3,57.57,76.36,17.51,0.11,67.0,20.16,41.23,43232093,SDN,Sudan,Khartoum,Sudan,2019
+Northern Africa,Sudan,65.61,4.54,39.9,56.6,11.6,59.7,79.2,19.21,0.11,62.0,20.32,41.18,44440486,SDN,Sudan,Khartoum,Sudan,2020
+Northern Africa,Sudan,65.27,4.46,38.9,54.9,11.9,61.77,75.56,19.19,0.11,58.0,6.36,41.09,45657202,SDN,Sudan,Khartoum,Sudan,2021
+Northern Africa,Tunisia,75.46,2.19,15.5,18.0,3.4,99.5,112.28,18.33,0.07,35.0,7.58,23.65,11032528,TUN,Tunisia,Tunis,Tunisia,2011
+Northern Africa,Tunisia,75.55,2.22,15.2,17.7,3.3,99.5,114.94,17.63,0.06,37.0,8.3,23.63,11174383,TUN,Tunisia,Tunis,Tunisia,2012
+Northern Africa,Tunisia,75.65,2.24,15.0,17.5,3.1,99.7,112.5,15.93,0.06,35.0,7.97,23.78,11300284,TUN,Tunisia,Tunis,Tunisia,2013
+Northern Africa,Tunisia,75.65,2.25,14.9,17.3,2.9,99.8,124.98,14.26,0.06,35.0,8.57,24.0,11428948,TUN,Tunisia,Tunis,Tunisia,2014
+Northern Africa,Tunisia,75.69,2.25,14.8,17.2,2.8,99.9,126.29,15.16,0.06,38.0,9.21,24.24,11557779,TUN,Tunisia,Tunis,Tunisia,2015
+Northern Africa,Tunisia,75.79,2.24,14.7,17.1,2.7,100.0,122.22,15.56,0.06,38.0,8.53,24.48,11685667,TUN,Tunisia,Tunis,Tunisia,2016
+Northern Africa,Tunisia,75.84,2.22,14.7,17.1,2.6,100.0,121.36,15.33,0.06,34.0,8.99,24.7,11811443,TUN,Tunisia,Tunis,Tunisia,2017
+Northern Africa,Tunisia,75.95,2.17,14.6,17.0,2.5,99.8,123.77,15.46,0.06,35.0,9.89,24.86,11933041,TUN,Tunisia,Tunis,Tunisia,2018
+Northern Africa,Tunisia,75.99,2.15,14.5,16.9,2.5,100.0,122.59,17.15,0.06,35.0,9.77,24.94,12049314,TUN,Tunisia,Tunis,Tunisia,2019
+Northern Africa,Tunisia,75.29,2.11,14.3,16.6,2.8,99.9,122.13,18.63,0.06,36.0,10.38,24.95,12161723,TUN,Tunisia,Tunis,Tunisia,2020
+Northern Africa,Tunisia,73.77,2.09,14.0,16.3,3.0,99.9,127.58,18.52,0.06,36.0,10.14,24.92,12262946,TUN,Tunisia,Tunis,Tunisia,2021
+Southern Africa,Botswana,60.53,3.0,48.0,61.2,22.7,53.24,135.91,18.04,12.64,480.0,2.12,34.67,2134037,BWA,Botswana,Gaborone,Botswana,2011
+Southern Africa,Botswana,60.8,2.98,42.9,55.2,22.8,55.97,141.66,17.8,11.64,445.0,2.31,34.57,2175425,BWA,Botswana,Gaborone,Botswana,2012
+Southern Africa,Botswana,62.0,2.96,39.7,50.3,23.0,57.97,146.43,18.06,10.51,414.0,1.99,34.49,2217278,BWA,Botswana,Gaborone,Botswana,2013
+Southern Africa,Botswana,62.61,2.95,38.7,48.2,23.3,60.02,150.88,18.4,10.0,385.0,1.82,34.38,2260376,BWA,Botswana,Gaborone,Botswana,2014
+Southern Africa,Botswana,63.82,2.94,36.6,45.4,24.1,62.13,150.76,18.88,9.91,356.0,1.95,34.24,2305171,BWA,Botswana,Gaborone,Botswana,2015
+Southern Africa,Botswana,65.46,2.93,35.3,43.5,25.0,64.2,139.81,19.34,9.44,326.0,1.98,34.05,2352416,BWA,Botswana,Gaborone,Botswana,2016
+Southern Africa,Botswana,66.75,2.91,32.3,39.9,26.3,67.4,134.92,19.7,8.68,300.0,1.84,33.83,2401840,BWA,Botswana,Gaborone,Botswana,2017
+Southern Africa,Botswana,65.42,2.9,30.9,39.0,26.4,68.25,137.93,19.62,8.12,275.0,2.12,33.62,2451409,BWA,Botswana,Gaborone,Botswana,2018
+Southern Africa,Botswana,65.46,2.88,29.9,37.7,26.4,70.1,149.89,20.09,7.27,253.0,2.08,33.41,2499702,BWA,Botswana,Gaborone,Botswana,2019
+Southern Africa,Botswana,65.65,2.84,29.0,36.3,24.5,71.83,150.39,21.02,6.7,230.0,2.21,33.17,2546402,BWA,Botswana,Gaborone,Botswana,2020
+Southern Africa,Botswana,61.14,2.79,28.3,34.9,22.9,73.73,160.74,23.11,6.03,228.0,1.79,32.91,2588423,BWA,Botswana,Gaborone,Botswana,2021
+Southern Africa,Eswatini,48.2,3.3,54.7,76.5,22.0,51.18,69.35,26.06,31.6,1300.0,9.72,38.55,1105371,SWZ,Eswatini,Mbabane,Eswatini,2011
+Southern Africa,Eswatini,49.84,3.26,53.8,70.4,18.5,54.3,72.43,25.1,31.51,1110.0,10.2,38.3,1111444,SWZ,Eswatini,Mbabane,Eswatini,2012
+Southern Africa,Eswatini,51.49,3.23,52.7,67.9,15.8,57.53,79.85,24.39,31.83,1030.0,10.12,38.07,1118319,SWZ,Eswatini,Mbabane,Eswatini,2013
+Southern Africa,Eswatini,53.05,3.17,53.4,67.9,14.4,65.0,81.43,23.77,31.27,855.0,9.23,37.79,1125865,SWZ,Eswatini,Mbabane,Eswatini,2014
+Southern Africa,Eswatini,55.02,3.12,50.1,64.4,14.4,64.12,82.99,23.26,28.78,648.0,9.35,37.46,1133936,SWZ,Eswatini,Mbabane,Eswatini,2015
+Southern Africa,Eswatini,56.66,3.07,48.1,61.8,14.5,63.43,87.09,22.72,26.69,537.0,8.96,37.1,1142524,SWZ,Eswatini,Mbabane,Eswatini,2016
+Southern Africa,Eswatini,57.9,3.02,49.0,63.2,13.7,73.5,89.24,22.65,23.09,502.0,8.43,36.73,1151390,SWZ,Eswatini,Mbabane,Eswatini,2017
+Southern Africa,Eswatini,59.41,2.96,45.4,59.6,12.9,73.96,89.85,22.64,20.06,441.0,8.52,36.33,1160428,SWZ,Eswatini,Mbabane,Eswatini,2018
+Southern Africa,Eswatini,60.55,2.92,43.9,56.9,12.1,77.03,91.85,22.54,18.73,363.0,8.6,35.89,1169613,SWZ,Eswatini,Mbabane,Eswatini,2019
+Southern Africa,Eswatini,59.69,2.89,44.2,56.2,11.9,79.99,105.82,24.77,16.17,335.0,8.12,35.44,1180655,SWZ,Eswatini,Mbabane,Eswatini,2020
+Southern Africa,Eswatini,57.07,2.84,41.5,52.6,11.6,82.9,120.05,24.37,14.88,329.0,8.1,35.03,1192271,SWZ,Eswatini,Mbabane,Eswatini,2021
+Southern Africa,Lesotho,46.69,3.32,64.5,89.4,12.5,22.53,60.48,16.07,21.85,1120.0,4.54,35.88,2037677,LSO,Lesotho,Maseru,Lesotho,2011
+Southern Africa,Lesotho,47.84,3.3,64.8,86.9,15.2,20.56,75.18,15.56,21.94,1040.0,4.9,35.65,2054718,LSO,Lesotho,Maseru,Lesotho,2012
+Southern Africa,Lesotho,49.0,3.33,64.9,85.1,20.0,26.88,86.32,15.79,21.71,948.0,5.06,35.44,2073939,LSO,Lesotho,Maseru,Lesotho,2013
+Southern Africa,Lesotho,50.03,3.29,63.8,84.0,27.2,27.8,102.08,15.99,20.52,853.0,3.96,35.28,2095242,LSO,Lesotho,Maseru,Lesotho,2014
+Southern Africa,Lesotho,51.1,3.26,63.2,82.5,31.9,31.77,101.02,16.22,18.93,780.0,3.78,35.13,2118521,LSO,Lesotho,Maseru,Lesotho,2015
+Southern Africa,Lesotho,52.26,3.24,63.0,77.8,34.0,35.07,106.49,16.1,16.31,721.0,4.88,34.99,2143872,LSO,Lesotho,Maseru,Lesotho,2016
+Southern Africa,Lesotho,53.06,3.19,62.0,75.5,31.6,33.7,109.68,16.45,13.71,681.0,4.96,34.81,2170617,LSO,Lesotho,Maseru,Lesotho,2017
+Southern Africa,Lesotho,53.73,3.14,60.8,76.4,33.0,47.0,71.98,16.68,11.35,659.0,4.25,34.6,2198017,LSO,Lesotho,Maseru,Lesotho,2018
+Southern Africa,Lesotho,54.17,3.09,60.0,77.2,38.1,44.56,75.56,16.88,9.82,654.0,4.52,34.4,2225702,LSO,Lesotho,Maseru,Lesotho,2019
+Southern Africa,Lesotho,54.69,3.05,58.4,75.5,43.7,47.5,69.32,18.46,8.91,600.0,5.27,34.23,2254100,LSO,Lesotho,Maseru,Lesotho,2020
+Southern Africa,Lesotho,53.06,3.02,57.0,72.9,46.0,50.38,79.83,18.45,8.1,630.0,6.12,34.1,2281454,LSO,Lesotho,Maseru,Lesotho,2021
+Southern Africa,Namibia,56.55,3.66,37.2,49.2,25.9,42.3,102.91,19.49,9.35,815.0,8.11,36.82,2132340,NAM,Namibia,Windhoek,Namibia,2011
+Southern Africa,Namibia,57.64,3.68,38.3,50.3,23.4,46.4,99.05,16.77,8.74,754.0,8.05,36.69,2167470,NAM,Namibia,Windhoek,Namibia,2012
+Southern Africa,Namibia,58.69,3.65,36.0,48.1,21.8,47.4,123.74,19.03,8.26,710.0,7.82,36.57,2204510,NAM,Namibia,Windhoek,Namibia,2013
+Southern Africa,Namibia,59.82,3.64,33.5,45.5,21.0,48.38,119.08,18.52,7.89,674.0,8.14,36.44,2243001,NAM,Namibia,Windhoek,Namibia,2014
+Southern Africa,Namibia,60.7,3.6,33.3,46.2,20.3,51.6,111.7,20.75,8.11,639.0,6.65,36.33,2282704,NAM,Namibia,Windhoek,Namibia,2015
+Southern Africa,Namibia,61.68,3.57,32.6,45.5,19.3,49.7,114.49,23.35,7.75,604.0,6.72,36.27,2323352,NAM,Namibia,Windhoek,Namibia,2016
+Southern Africa,Namibia,62.29,3.51,32.0,44.4,18.9,52.5,113.35,21.78,7.6,565.0,7.68,36.25,2364534,NAM,Namibia,Windhoek,Namibia,2017
+Southern Africa,Namibia,62.59,3.46,31.5,43.6,18.2,52.32,114.7,19.88,6.87,524.0,7.77,36.24,2405680,NAM,Namibia,Windhoek,Namibia,2018
+Southern Africa,Namibia,63.08,3.4,30.7,41.9,17.6,53.28,115.41,19.96,6.13,486.0,7.08,36.23,2446644,NAM,Namibia,Windhoek,Namibia,2019
+Southern Africa,Namibia,62.83,3.35,30.0,40.3,17.1,52.3,116.43,21.15,5.27,439.0,9.16,36.2,2489098,NAM,Namibia,Windhoek,Namibia,2020
+Southern Africa,Namibia,59.27,3.3,29.4,39.0,17.1,55.23,115.22,21.15,5.16,452.0,9.49,36.21,2530151,NAM,Namibia,Windhoek,Namibia,2021
+Southern Africa,South Africa,60.65,2.44,33.3,45.5,5.1,83.6,122.04,21.42,15.03,1200.0,2.04,28.52,52443325,ZAF,South Africa,Pretoria,South Africa,2011
+Southern Africa,South Africa,61.85,2.45,31.9,41.5,5.2,85.2,128.69,21.79,14.31,1160.0,1.98,28.43,53145033,ZAF,South Africa,Pretoria,South Africa,2012
+Southern Africa,South Africa,62.53,2.43,31.0,39.6,5.5,85.2,142.68,22.04,13.41,1110.0,1.93,28.42,53873616,ZAF,South Africa,Pretoria,South Africa,2013
+Southern Africa,South Africa,63.38,2.42,30.2,38.3,6.3,85.9,144.86,22.61,12.61,1070.0,2.13,28.39,54729551,ZAF,South Africa,Pretoria,South Africa,2014
+Southern Africa,South Africa,63.95,2.36,29.4,37.3,6.5,85.3,157.49,22.87,11.79,988.0,2.23,28.28,55876504,ZAF,South Africa,Pretoria,South Africa,2015
+Southern Africa,South Africa,64.75,2.26,28.9,36.6,6.2,83.9,146.06,24.02,11.09,805.0,2.41,28.37,56422274,ZAF,South Africa,Pretoria,South Africa,2016
+Southern Africa,South Africa,65.4,2.33,28.3,35.8,5.7,84.4,156.24,23.99,10.1,738.0,2.49,28.59,56641209,ZAF,South Africa,Pretoria,South Africa,2017
+Southern Africa,South Africa,65.67,2.42,27.8,35.1,5.7,84.7,161.19,24.22,8.95,677.0,2.26,28.68,57339635,ZAF,South Africa,Pretoria,South Africa,2018
+Southern Africa,South Africa,66.18,2.48,27.3,34.3,6.1,85.0,166.94,25.54,8.14,615.0,1.95,28.75,58087055,ZAF,South Africa,Pretoria,South Africa,2019
+Southern Africa,South Africa,65.25,2.4,26.9,33.7,6.9,90.0,163.19,24.34,7.35,562.0,2.58,28.74,58801927,ZAF,South Africa,Pretoria,South Africa,2020
+Southern Africa,South Africa,62.34,2.37,26.4,32.8,7.9,89.3,168.92,28.77,6.9,513.0,2.56,28.67,59392255,ZAF,South Africa,Pretoria,South Africa,2021
+Southern Africa,Southern Africa,59.8,2.55,35.42,48.26,7.03,78.37,118.78,21.13,15.28,1159.74,2.49,29.47,46192986,,,,,2011
+Southern Africa,Southern Africa,60.96,2.55,34.04,44.37,7.06,80.01,125.26,21.32,14.59,1114.87,2.46,29.37,46811057,,,,,2012
+Southern Africa,Southern Africa,61.72,2.54,33.03,42.34,7.39,80.39,139.09,21.62,13.74,1063.64,2.4,29.35,47451707,,,,,2013
+Southern Africa,Southern Africa,62.59,2.53,32.17,40.98,8.29,81.29,141.57,22.11,12.95,1019.83,2.52,29.3,48213405,,,,,2014
+Southern Africa,Southern Africa,63.24,2.47,31.29,39.9,8.62,81.1,152.4,22.44,12.13,939.67,2.56,29.17,49256717,,,,,2015
+Southern Africa,Southern Africa,64.1,2.38,30.74,38.99,8.43,79.96,142.33,23.54,11.36,772.69,2.75,29.23,49706209,,,,,2016
+Southern Africa,Southern Africa,64.79,2.44,30.08,38.08,7.96,80.71,151.13,23.47,10.31,709.32,2.85,29.41,49832289,,,,,2017
+Southern Africa,Southern Africa,65.04,2.51,29.47,37.38,7.98,81.44,154.36,23.61,9.12,651.57,2.63,29.48,50427881,,,,,2018
+Southern Africa,Southern Africa,65.53,2.55,28.91,36.54,8.47,81.78,160.02,24.79,8.28,593.5,2.35,29.51,51072224,,,,,2019
+Southern Africa,Southern Africa,64.73,2.48,28.45,35.84,9.26,86.32,156.82,23.91,7.46,542.17,3.0,29.49,51682897,,,,,2020
+Southern Africa,Southern Africa,61.78,2.45,27.88,34.8,10.16,86.02,162.77,27.85,6.98,500.58,3.0,29.41,52176088,,,,,2021
+Western Africa,Benin,58.46,5.37,68.4,106.9,8.6,36.9,79.84,2.65,0.61,67.0,25.8,43.53,9726380,BEN,Benin,Porto-Novo,Benin,2011
+Western Africa,Benin,58.72,5.35,67.1,104.6,8.4,38.4,83.96,2.39,0.54,66.0,25.77,43.41,10014078,BEN,Benin,Porto-Novo,Benin,2012
+Western Africa,Benin,58.96,5.34,65.8,102.3,8.2,34.65,93.39,2.04,0.5,64.0,25.28,43.31,10308730,BEN,Benin,Porto-Novo,Benin,2013
+Western Africa,Benin,59.12,5.35,64.6,100.1,8.2,34.1,81.59,1.81,0.5,61.0,25.62,43.23,10614844,BEN,Benin,Porto-Novo,Benin,2014
+Western Africa,Benin,59.38,5.32,63.3,97.9,8.1,29.62,85.23,1.81,0.45,60.0,26.39,43.16,10932783,BEN,Benin,Porto-Novo,Benin,2015
+Western Africa,Benin,59.54,5.3,62.0,95.6,8.7,37.03,78.97,1.84,0.38,59.0,27.75,43.1,11260085,BEN,Benin,Porto-Novo,Benin,2016
+Western Africa,Benin,59.86,5.27,60.8,93.4,9.5,34.5,75.65,1.75,0.32,58.0,28.49,43.04,11596779,BEN,Benin,Porto-Novo,Benin,2017
+Western Africa,Benin,60.14,5.2,59.5,91.1,10.4,39.01,79.24,1.47,0.28,56.0,28.06,42.95,11940683,BEN,Benin,Porto-Novo,Benin,2018
+Western Africa,Benin,60.45,5.13,58.0,88.6,10.6,40.0,84.21,1.37,0.23,55.0,26.88,42.84,12290444,BEN,Benin,Porto-Novo,Benin,2019
+Western Africa,Benin,60.09,5.05,56.6,86.0,10.2,40.99,88.12,1.62,0.21,54.0,27.11,42.71,12643123,BEN,Benin,Porto-Novo,Benin,2020
+Western Africa,Benin,59.82,4.97,55.2,83.5,9.9,41.97,97.96,1.78,0.2,53.0,28.53,42.58,12996895,BEN,Benin,Porto-Novo,Benin,2021
+Western Africa,Burkina Faso,57.12,5.87,66.4,117.2,14.2,14.78,46.27,3.84,0.39,57.0,23.04,45.67,16602651,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2011
+Western Africa,Burkina Faso,57.62,5.79,64.6,112.9,13.7,15.07,58.29,3.82,0.36,55.0,23.76,45.68,17113732,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2012
+Western Africa,Burkina Faso,57.82,5.7,62.9,108.7,13.2,15.39,63.74,4.05,0.33,54.0,23.64,45.68,17636408,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2013
+Western Africa,Burkina Faso,58.36,5.6,61.2,104.7,13.1,19.2,68.76,4.28,0.29,54.0,23.69,45.64,18169842,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2014
+Western Africa,Burkina Faso,58.84,5.48,59.7,101.1,13.3,16.15,77.18,4.53,0.26,52.0,22.65,45.55,18718019,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2015
+Western Africa,Burkina Faso,59.33,5.32,58.3,97.7,13.6,16.57,79.92,4.65,0.22,51.0,21.71,45.41,19275498,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2016
+Western Africa,Burkina Faso,59.54,5.16,56.9,94.5,13.7,17.01,90.47,4.69,0.19,49.0,20.59,45.22,19835858,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2017
+Western Africa,Burkina Faso,60.05,5.07,55.6,91.3,14.0,14.4,94.83,4.69,0.17,48.0,21.0,44.99,20392723,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2018
+Western Africa,Burkina Faso,60.04,4.97,54.2,88.2,14.6,17.6,97.2,4.71,0.16,47.0,18.22,44.74,20951639,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2019
+Western Africa,Burkina Faso,59.73,4.87,53.0,85.4,15.5,18.47,102.76,5.15,0.14,46.0,17.85,44.44,21522626,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2020
+Western Africa,Burkina Faso,59.27,4.77,51.8,82.6,16.2,18.95,111.66,5.36,0.12,45.0,17.23,44.09,22100683,BFA,Burkina Faso,Ouagadougou,Burkina Faso,2021
+Western Africa,Cabo Verde,74.26,2.47,21.5,25.5,18.2,82.26,75.15,10.97,0.42,95.0,5.4,31.34,527521,CPV,Cape Verde,Praia,Cabo Verde,2011
+Western Africa,Cabo Verde,74.48,2.28,20.5,24.2,18.5,83.25,79.67,11.14,0.41,104.0,5.79,30.75,533864,CPV,Cape Verde,Praia,Cabo Verde,2012
+Western Africa,Cabo Verde,75.06,2.2,19.4,22.8,19.4,84.27,92.5,11.4,0.44,74.0,5.82,30.16,539940,CPV,Cape Verde,Praia,Cabo Verde,2013
+Western Africa,Cabo Verde,75.24,2.17,18.1,21.3,20.7,85.33,112.32,11.72,0.43,66.0,5.74,29.59,546076,CPV,Cape Verde,Praia,Cabo Verde,2014
+Western Africa,Cabo Verde,74.62,2.12,16.9,19.7,21.4,86.42,110.74,11.95,0.43,64.0,6.41,29.06,552166,CPV,Cape Verde,Praia,Cabo Verde,2015
+Western Africa,Cabo Verde,75.74,2.12,15.7,18.3,21.7,87.53,107.8,12.09,0.42,58.0,6.31,28.61,558394,CPV,Cape Verde,Praia,Cabo Verde,2016
+Western Africa,Cabo Verde,76.59,2.09,14.6,17.0,20.9,88.61,108.37,12.24,0.44,58.0,5.38,28.24,564954,CPV,Cape Verde,Praia,Cabo Verde,2017
+Western Africa,Cabo Verde,75.73,1.96,13.7,15.9,19.8,90.2,106.85,12.17,0.44,46.0,4.52,27.86,571202,CPV,Cape Verde,Praia,Cabo Verde,2018
+Western Africa,Cabo Verde,76.0,1.93,12.9,15.0,18.5,91.4,103.23,12.15,0.42,46.0,4.44,27.46,577030,CPV,Cape Verde,Praia,Cabo Verde,2019
+Western Africa,Cabo Verde,74.81,1.91,12.2,14.2,18.1,93.75,93.49,14.59,0.43,39.0,6.19,27.04,582640,CPV,Cape Verde,Praia,Cabo Verde,2020
+Western Africa,Cabo Verde,74.05,1.9,11.7,13.5,18.2,95.52,100.38,14.09,0.39,35.0,6.12,26.61,587925,CPV,Cape Verde,Praia,Cabo Verde,2021
+Western Africa,Cote d'Ivoire,55.52,5.03,73.1,103.2,14.4,55.8,80.44,7.2,1.73,186.0,18.49,43.93,21562914,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2011
+Western Africa,Cote d'Ivoire,56.16,4.97,71.1,100.1,13.4,55.8,82.23,7.22,1.54,178.0,16.38,44.03,22010712,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2012
+Western Africa,Cote d'Ivoire,56.75,4.92,69.2,96.9,13.4,61.45,86.3,4.25,1.34,170.0,15.34,44.04,22469268,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2013
+Western Africa,Cote d'Ivoire,57.21,4.87,67.3,93.5,12.6,61.9,96.13,3.21,1.2,165.0,15.24,43.89,22995555,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2014
+Western Africa,Cote d'Ivoire,57.76,4.81,65.6,90.5,11.9,62.6,107.67,2.54,1.04,159.0,18.36,43.62,23596741,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2015
+Western Africa,Cote d'Ivoire,58.06,4.76,64.2,88.0,10.6,64.3,113.37,1.9,0.96,153.0,17.86,43.34,24213622,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2016
+Western Africa,Cote d'Ivoire,58.48,4.74,62.6,85.6,9.8,65.6,127.77,3.27,0.73,148.0,17.31,43.06,24848016,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2017
+Western Africa,Cote d'Ivoire,58.85,4.61,61.0,82.8,9.0,67.15,132.61,2.83,0.57,142.0,18.23,42.76,25493988,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2018
+Western Africa,Cote d'Ivoire,59.32,4.54,59.0,79.7,8.4,68.57,142.94,2.4,0.44,137.0,17.5,42.44,26147551,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2019
+Western Africa,Cote d'Ivoire,59.03,4.47,57.5,77.3,7.9,69.88,149.54,2.64,0.36,132.0,19.09,42.11,26811790,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2020
+Western Africa,Cote d'Ivoire,58.6,4.42,55.9,74.8,7.7,71.14,162.17,2.71,0.33,128.0,17.47,41.8,27478249,CIV,Ivory Coast,Yamoussoukro,Cote d'Ivoire,2021
+Western Africa,Equatorial Guinea,58.41,5.13,76.7,107.5,10.79,66.1,41.84,8.34,7.17,224.0,1.05,38.8,1144588,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2011
+Western Africa,Equatorial Guinea,58.86,5.04,74.3,103.6,10.96,65.75,41.98,8.19,7.29,236.0,1.06,38.69,1193636,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2012
+Western Africa,Equatorial Guinea,59.22,4.95,72.1,100.2,10.85,65.88,41.06,8.09,7.22,248.0,1.19,38.64,1243941,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2013
+Western Africa,Equatorial Guinea,59.6,4.86,69.9,96.8,10.74,66.0,39.88,8.07,6.54,260.0,1.29,38.64,1295183,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2014
+Western Africa,Equatorial Guinea,60.1,4.77,68.0,93.7,10.57,66.12,39.6,8.18,6.63,274.0,1.89,38.68,1346973,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2015
+Western Africa,Equatorial Guinea,60.48,4.69,66.0,90.6,10.6,66.24,41.15,8.26,6.73,294.0,2.33,38.77,1398927,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2016
+Western Africa,Equatorial Guinea,60.82,4.6,64.1,87.6,10.71,66.35,39.02,8.33,6.36,286.0,2.32,38.86,1450694,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2017
+Western Africa,Equatorial Guinea,61.19,4.51,62.2,84.7,10.87,66.46,39.36,8.24,5.82,254.0,2.26,38.91,1502091,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2018
+Western Africa,Equatorial Guinea,61.64,4.43,60.4,81.9,11.89,66.57,39.73,8.33,5.68,286.0,2.44,38.87,1553031,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2019
+Western Africa,Equatorial Guinea,60.71,4.35,58.8,79.3,13.03,66.68,46.62,9.03,5.7,275.0,3.15,38.86,1596049,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2020
+Western Africa,Equatorial Guinea,60.59,4.27,57.2,76.8,14.22,66.79,49.97,9.19,5.77,275.0,2.9,38.77,1634466,GNQ,Equatorial Guinea,Malabo,Equatorial Guinea,2021
+Western Africa,Gambia,61.53,5.64,44.6,70.8,12.9,48.32,70.12,10.26,2.0,178.0,27.2,45.74,1998212,GMB,Gambia,Banjul,"Gambia, The",2011
+Western Africa,Gambia,62.1,5.59,43.3,68.0,13.6,49.86,74.05,10.35,1.96,177.0,27.39,45.7,2061014,GMB,Gambia,Banjul,"Gambia, The",2012
+Western Africa,Gambia,62.11,5.51,42.1,65.2,14.4,51.5,87.01,9.53,1.86,176.0,26.22,45.62,2124869,GMB,Gambia,Banjul,"Gambia, The",2013
+Western Africa,Gambia,62.27,5.42,41.0,62.6,15.4,53.04,104.32,8.2,1.85,175.0,22.46,45.5,2189019,GMB,Gambia,Banjul,"Gambia, The",2014
+Western Africa,Gambia,62.49,5.31,39.8,60.1,15.9,54.69,120.53,7.28,1.74,173.0,22.21,45.36,2253133,GMB,Gambia,Banjul,"Gambia, The",2015
+Western Africa,Gambia,63.01,5.2,38.7,57.7,16.7,56.35,122.48,6.33,1.67,170.0,21.86,45.17,2317206,GMB,Gambia,Banjul,"Gambia, The",2016
+Western Africa,Gambia,63.0,5.09,37.7,55.5,17.6,56.2,124.56,5.16,1.6,166.0,21.0,44.94,2381182,GMB,Gambia,Banjul,"Gambia, The",2017
+Western Africa,Gambia,63.04,4.97,36.7,53.4,17.8,60.3,130.12,4.13,1.52,162.0,19.87,44.65,2444916,GMB,Gambia,Banjul,"Gambia, The",2018
+Western Africa,Gambia,63.76,4.87,35.8,51.5,18.3,62.1,103.02,4.04,1.46,158.0,20.0,44.31,2508883,GMB,Gambia,Banjul,"Gambia, The",2019
+Western Africa,Gambia,62.61,4.78,34.9,49.6,18.7,62.23,104.04,4.76,1.39,153.0,21.24,43.93,2573995,GMB,Gambia,Banjul,"Gambia, The",2020
+Western Africa,Gambia,62.08,4.68,34.0,47.9,19.6,63.7,101.44,4.72,1.4,149.0,22.42,43.5,2639916,GMB,Gambia,Banjul,"Gambia, The",2021
+Western Africa,Ghana,61.65,4.19,45.6,66.5,6.3,64.06,80.77,4.19,1.37,178.0,23.66,39.12,26205941,GHA,Ghana,Accra,Ghana,2011
+Western Africa,Ghana,62.08,4.18,43.8,63.4,6.6,56.51,95.38,3.1,1.3,173.0,22.13,39.09,26858762,GHA,Ghana,Accra,Ghana,2012
+Western Africa,Ghana,62.42,4.14,42.2,60.5,6.9,70.7,101.82,2.17,1.26,168.0,20.37,39.05,27525597,GHA,Ghana,Accra,Ghana,2013
+Western Africa,Ghana,63.04,4.05,40.6,57.8,7.5,78.3,107.68,4.39,1.23,165.0,19.58,38.98,28196358,GHA,Ghana,Accra,Ghana,2014
+Western Africa,Ghana,63.18,4.05,39.2,55.4,8.2,74.0,121.26,6.81,1.22,160.0,19.98,38.86,28870939,GHA,Ghana,Accra,Ghana,2015
+Western Africa,Ghana,63.89,3.91,37.9,53.1,8.3,79.3,129.61,5.3,1.21,156.0,20.84,38.68,29554303,GHA,Ghana,Accra,Ghana,2016
+Western Africa,Ghana,64.01,3.71,36.7,51.0,7.6,79.0,121.6,3.37,1.25,152.0,19.56,38.43,30222262,GHA,Ghana,Accra,Ghana,2017
+Western Africa,Ghana,64.12,3.73,35.6,49.1,6.5,80.4,132.6,3.25,1.23,148.0,18.14,38.15,30870641,GHA,Ghana,Accra,Ghana,2018
+Western Africa,Ghana,64.74,3.68,34.5,47.2,5.7,83.5,129.61,3.17,1.19,144.0,17.32,37.89,31522290,GHA,Ghana,Accra,Ghana,2019
+Western Africa,Ghana,64.11,3.62,33.5,45.5,5.1,85.44,125.73,3.42,1.03,140.0,18.85,37.58,32180401,GHA,Ghana,Accra,Ghana,2020
+Western Africa,Ghana,63.8,3.56,32.6,44.0,4.9,86.3,123.21,3.56,0.86,136.0,19.66,37.25,32833031,GHA,Ghana,Accra,Ghana,2021
+Western Africa,Guinea,57.02,5.3,75.6,119.8,16.4,29.46,46.17,5.25,1.33,183.0,16.07,44.29,10527712,GIN,Guinea,Conakry,Guinea,2011
+Western Africa,Guinea,57.41,5.2,74.5,117.7,14.7,26.2,51.76,4.92,1.26,180.0,16.83,44.03,10788692,GIN,Guinea,Conakry,Guinea,2012
+Western Africa,Guinea,57.79,5.12,73.4,115.7,13.5,32.18,67.27,5.03,1.21,177.0,17.55,43.8,11055430,GIN,Guinea,Conakry,Guinea,2013
+Western Africa,Guinea,57.89,5.05,72.9,114.5,12.9,33.53,76.62,5.2,1.2,177.0,17.52,43.56,11333365,GIN,Guinea,Conakry,Guinea,2014
+Western Africa,Guinea,58.13,5.02,71.9,112.6,12.9,34.88,92.59,5.38,1.13,177.0,18.48,43.33,11625998,GIN,Guinea,Conakry,Guinea,2015
+Western Africa,Guinea,58.76,4.93,70.2,110.1,13.3,33.5,93.12,5.05,1.11,176.0,17.59,43.1,11930985,GIN,Guinea,Conakry,Guinea,2016
+Western Africa,Guinea,59.11,4.79,69.2,108.3,13.3,35.4,95.58,4.77,1.06,176.0,20.53,42.88,12240789,GIN,Guinea,Conakry,Guinea,2017
+Western Africa,Guinea,59.35,4.67,68.0,106.2,12.7,45.0,95.68,4.7,0.99,176.0,22.94,42.65,12554864,GIN,Guinea,Conakry,Guinea,2018
+Western Africa,Guinea,59.72,4.58,66.8,104.0,12.5,42.2,99.96,5.02,0.91,176.0,26.43,42.38,12877539,GIN,Guinea,Conakry,Guinea,2019
+Western Africa,Guinea,59.33,4.49,65.4,101.6,12.4,44.75,104.47,6.06,0.8,175.0,26.14,42.11,13205153,GIN,Guinea,Conakry,Guinea,2020
+Western Africa,Guinea,58.89,4.4,63.8,98.7,12.9,46.81,101.94,5.97,0.76,175.0,27.32,41.83,13531906,GIN,Guinea,Conakry,Guinea,2021
+Western Africa,Guinea-Bissau,56.97,5.05,69.6,109.0,28.1,13.52,45.53,3.15,3.36,361.0,45.02,43.43,1609017,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2011
+Western Africa,Guinea-Bissau,57.69,5.0,66.7,103.9,30.4,14.93,63.48,3.23,3.1,361.0,46.89,43.29,1652717,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2012
+Western Africa,Guinea-Bissau,58.23,4.94,64.2,99.4,33.0,16.34,55.36,3.26,2.85,361.0,44.14,43.15,1697753,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2013
+Western Africa,Guinea-Bissau,58.61,4.8,61.9,95.5,34.8,17.2,63.57,3.38,2.7,361.0,41.13,42.97,1743309,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2014
+Western Africa,Guinea-Bissau,59.13,4.67,59.9,91.8,35.1,20.11,69.23,3.25,2.58,361.0,46.79,42.76,1788919,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2015
+Western Africa,Guinea-Bissau,59.67,4.53,58.0,88.6,34.0,22.91,70.09,3.2,2.38,361.0,46.35,42.5,1834552,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2016
+Western Africa,Guinea-Bissau,60.07,4.36,56.3,85.5,32.9,26.0,76.33,3.12,2.11,361.0,49.16,42.18,1879826,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2017
+Western Africa,Guinea-Bissau,60.5,4.26,54.6,82.4,33.1,28.38,76.91,3.2,1.99,361.0,30.72,41.8,1924955,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2018
+Western Africa,Guinea-Bissau,60.88,4.17,52.9,79.5,35.3,30.93,80.71,3.23,1.77,361.0,30.4,41.4,1970457,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2019
+Western Africa,Guinea-Bissau,60.0,4.09,51.5,77.0,36.8,33.37,94.94,3.72,1.6,361.0,30.86,40.98,2015828,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2020
+Western Africa,Guinea-Bissau,59.65,4.0,50.0,74.3,37.9,35.76,108.53,3.81,1.56,361.0,24.25,40.56,2060721,GNB,Guinea Bissau,Bissau,Guinea-Bissau,2021
+Western Africa,Liberia,59.62,4.97,69.9,96.8,35.8,4.1,48.33,2.21,1.04,299.0,44.3,42.9,4181150,LBR,Liberia,Monrovia,Liberia,2011
+Western Africa,Liberia,59.91,4.88,68.3,94.2,36.7,9.25,54.94,2.14,0.99,304.0,46.71,42.62,4331740,LBR,Liberia,Monrovia,Liberia,2012
+Western Africa,Liberia,59.94,4.75,66.9,92.0,36.6,9.8,57.61,2.08,0.92,308.0,39.53,42.72,4427313,LBR,Liberia,Monrovia,Liberia,2013
+Western Africa,Liberia,59.12,4.62,67.8,92.2,36.8,9.4,71.36,2.08,0.86,308.0,36.5,42.73,4519398,LBR,Liberia,Monrovia,Liberia,2014
+Western Africa,Liberia,59.15,4.52,64.6,88.3,35.9,15.23,79.18,2.56,0.83,308.0,34.4,42.63,4612329,LBR,Liberia,Monrovia,Liberia,2015
+Western Africa,Liberia,60.42,4.46,63.2,86.3,35.3,17.7,66.23,3.08,0.8,308.0,35.92,42.48,4706097,LBR,Liberia,Monrovia,Liberia,2016
+Western Africa,Liberia,60.55,4.4,62.1,84.5,35.1,24.2,55.46,3.06,0.74,308.0,35.94,42.32,4796631,LBR,Liberia,Monrovia,Liberia,2017
+Western Africa,Liberia,60.85,4.34,60.9,82.6,35.6,22.77,89.85,3.06,0.71,308.0,35.5,42.11,4889391,LBR,Liberia,Monrovia,Liberia,2018
+Western Africa,Liberia,61.1,4.26,59.6,80.6,36.9,23.1,38.85,3.07,0.67,308.0,36.44,41.83,4985289,LBR,Liberia,Monrovia,Liberia,2019
+Western Africa,Liberia,60.95,4.17,58.2,78.3,37.8,27.56,32.49,4.12,0.58,308.0,41.05,41.46,5087584,LBR,Liberia,Monrovia,Liberia,2020
+Western Africa,Liberia,60.75,4.09,56.7,76.0,38.4,29.85,31.83,3.96,0.44,308.0,36.96,41.01,5193416,LBR,Liberia,Monrovia,Liberia,2021
+Western Africa,Mali,56.76,6.54,76.6,130.0,5.0,28.82,67.47,1.44,0.82,62.0,34.56,47.4,16039734,MLI,Mali,Bamako,Mali,2011
+Western Africa,Mali,57.08,6.52,74.9,126.1,4.6,25.6,88.48,1.56,0.76,61.0,38.11,47.71,16514687,MLI,Mali,Bamako,Mali,2012
+Western Africa,Mali,57.36,6.49,73.2,122.5,4.4,32.42,116.15,1.62,0.73,60.0,36.75,47.97,17004033,MLI,Mali,Bamako,Mali,2013
+Western Africa,Mali,57.9,6.44,71.7,119.0,4.3,34.22,133.92,1.55,0.71,58.0,37.46,48.07,17551814,MLI,Mali,Bamako,Mali,2014
+Western Africa,Mali,58.36,6.38,70.2,115.6,4.2,37.6,125.32,1.43,0.67,57.0,37.72,48.12,18112907,MLI,Mali,Bamako,Mali,2015
+Western Africa,Mali,58.73,6.32,68.7,112.4,3.8,38.8,108.12,1.37,0.63,56.0,37.4,48.11,18700106,MLI,Mali,Bamako,Mali,2016
+Western Africa,Mali,59.13,6.25,67.3,109.3,3.9,34.78,114.1,1.5,0.59,55.0,37.43,48.03,19311355,MLI,Mali,Bamako,Mali,2017
+Western Africa,Mali,59.39,6.18,65.9,106.2,4.3,50.9,110.14,1.62,0.54,53.0,37.61,47.93,19934298,MLI,Mali,Bamako,Mali,2018
+Western Africa,Mali,59.66,6.1,64.4,103.1,6.6,47.85,111.47,2.35,0.5,52.0,37.31,47.8,20567424,MLI,Mali,Bamako,Mali,2019
+Western Africa,Mali,58.63,6.04,63.0,100.1,9.7,50.64,119.28,3.53,0.48,51.0,36.19,47.61,21224040,MLI,Mali,Bamako,Mali,2020
+Western Africa,Mali,58.94,5.96,61.6,97.1,12.8,53.38,111.09,2.44,0.42,50.0,35.68,47.39,21904983,MLI,Mali,Bamako,Mali,2021
+Western Africa,Mauritania,63.35,5.03,40.6,54.9,6.7,35.3,94.06,9.99,0.26,128.0,14.52,43.54,3524249,MRT,Mauritania,Nouakchott,Mauritania,2011
+Western Africa,Mauritania,63.58,4.99,39.8,53.4,6.3,36.42,110.71,9.86,0.25,121.0,16.09,43.92,3636113,MRT,Mauritania,Nouakchott,Mauritania,2012
+Western Africa,Mauritania,63.91,4.94,39.0,51.9,6.2,37.58,106.55,9.92,0.24,115.0,16.28,44.06,3742959,MRT,Mauritania,Nouakchott,Mauritania,2013
+Western Africa,Mauritania,64.16,4.89,38.1,50.5,6.5,38.8,97.66,10.02,0.24,111.0,18.81,43.91,3843174,MRT,Mauritania,Nouakchott,Mauritania,2014
+Western Africa,Mauritania,64.48,4.81,37.2,48.9,6.8,39.5,92.35,10.1,0.25,107.0,20.63,43.75,3946220,MRT,Mauritania,Nouakchott,Mauritania,2015
+Western Africa,Mauritania,64.77,4.74,36.4,47.4,7.0,41.25,89.2,10.3,0.25,102.0,21.74,43.55,4051890,MRT,Mauritania,Nouakchott,Mauritania,2016
+Western Africa,Mauritania,65.08,4.66,35.5,46.0,7.0,42.9,97.94,10.34,0.24,97.0,22.72,43.31,4160015,MRT,Mauritania,Nouakchott,Mauritania,2017
+Western Africa,Mauritania,65.31,4.61,34.7,44.6,6.9,43.59,106.93,10.46,0.23,93.0,23.66,43.04,4270712,MRT,Mauritania,Nouakchott,Mauritania,2018
+Western Africa,Mauritania,65.69,4.52,33.8,43.2,7.0,44.95,107.46,10.42,0.4,89.0,19.96,42.72,4383849,MRT,Mauritania,Nouakchott,Mauritania,2019
+Western Africa,Mauritania,64.53,4.46,33.0,41.8,7.5,45.4,129.13,11.17,0.19,85.0,19.15,42.38,4498604,MRT,Mauritania,Nouakchott,Mauritania,2020
+Western Africa,Mauritania,64.36,4.4,32.2,40.5,8.7,47.7,141.11,11.33,0.2,81.0,19.15,42.01,4614974,MRT,Mauritania,Nouakchott,Mauritania,2021
+Western Africa,Niger,58.99,7.45,64.4,129.1,14.4,14.3,27.44,0.32,0.13,109.0,33.65,49.17,17283112,NER,Niger,Niamey,Niger,2011
+Western Africa,Niger,59.65,7.4,63.3,126.0,14.7,14.4,30.05,2.18,0.12,105.0,33.68,49.19,17954407,NER,Niger,Niamey,Niger,2012
+Western Africa,Niger,60.24,7.34,62.4,123.4,14.1,15.15,37.56,1.41,0.11,102.0,32.24,49.18,18653199,NER,Niger,Niamey,Niger,2013
+Western Africa,Niger,60.79,7.28,61.8,121.6,13.3,15.73,42.52,0.52,0.1,98.0,33.43,49.18,19372014,NER,Niger,Niamey,Niger,2014
+Western Africa,Niger,61.08,7.21,61.3,120.2,12.4,16.6,44.51,0.56,0.1,95.0,32.42,49.14,20128124,NER,Niger,Niamey,Niger,2015
+Western Africa,Niger,61.63,7.14,60.9,119.1,11.7,16.97,35.71,0.56,0.09,93.0,35.26,49.09,20921743,NER,Niger,Niamey,Niger,2016
+Western Africa,Niger,62.16,7.08,60.6,118.4,10.9,17.58,40.39,0.57,0.08,90.0,35.82,49.06,21737922,NER,Niger,Niamey,Niger,2017
+Western Africa,Niger,62.45,7.02,60.4,117.7,11.0,17.6,89.85,0.55,0.07,87.0,37.58,49.02,22577058,NER,Niger,Niamey,Niger,2018
+Western Africa,Niger,62.9,6.96,60.2,117.0,11.9,18.46,51.69,0.55,0.07,84.0,36.99,48.99,23443393,NER,Niger,Niamey,Niger,2019
+Western Africa,Niger,61.45,6.89,59.9,116.3,14.2,18.72,58.52,0.66,0.06,82.0,38.38,48.95,24333639,NER,Niger,Niamey,Niger,2020
+Western Africa,Niger,61.58,6.82,59.5,115.2,16.1,18.6,56.39,0.86,0.06,79.0,36.48,48.9,25252722,NER,Niger,Niamey,Niger,2021
+Western Africa,Nigeria,51.36,5.92,83.2,133.4,9.2,55.9,57.52,3.77,1.09,219.0,22.23,44.33,165463745,NGA,Nigeria,Abuja,Nigeria,2011
+Western Africa,Nigeria,51.5,5.83,82.0,131.4,9.7,53.02,66.31,3.77,1.07,219.0,21.86,44.36,170075932,NGA,Nigeria,Abuja,Nigeria,2012
+Western Africa,Nigeria,51.71,5.74,81.1,129.6,9.6,55.6,72.83,3.71,0.98,219.0,20.76,44.38,174726123,NGA,Nigeria,Abuja,Nigeria,2013
+Western Africa,Nigeria,51.79,5.66,80.2,128.0,9.5,54.15,77.47,3.88,0.92,219.0,19.99,44.37,179379016,NGA,Nigeria,Abuja,Nigeria,2014
+Western Africa,Nigeria,51.84,5.62,79.3,126.4,9.3,52.5,81.97,4.11,0.9,219.0,20.63,44.31,183995785,NGA,Nigeria,Abuja,Nigeria,2015
+Western Africa,Nigeria,52.04,5.58,78.3,124.7,9.6,59.3,81.81,4.52,0.87,219.0,20.98,44.22,188666931,NGA,Nigeria,Abuja,Nigeria,2016
+Western Africa,Nigeria,52.3,5.52,77.1,122.4,10.1,54.4,74.9,4.88,0.82,219.0,20.85,44.07,193495907,NGA,Nigeria,Abuja,Nigeria,2017
+Western Africa,Nigeria,52.55,5.45,75.5,119.6,10.6,56.5,87.07,5.12,0.81,219.0,21.2,43.89,198387623,NGA,Nigeria,Abuja,Nigeria,2018
+Western Africa,Nigeria,52.91,5.38,73.9,116.8,12.4,55.4,90.8,5.21,0.78,219.0,21.91,43.71,203304492,NGA,Nigeria,Abuja,Nigeria,2019
+Western Africa,Nigeria,52.89,5.31,72.3,113.8,14.2,55.4,98.03,5.63,0.67,219.0,24.14,43.5,208327405,NGA,Nigeria,Abuja,Nigeria,2020
+Western Africa,Nigeria,52.68,5.24,70.6,110.8,15.9,59.5,91.44,5.26,0.44,219.0,23.36,43.29,213401323,NGA,Nigeria,Abuja,Nigeria,2021
+Western Africa,Senegal,65.26,5.04,41.1,62.9,10.7,56.5,72.64,10.36,0.17,130.0,12.95,43.24,12875880,SEN,Senegal,Dakar,Senegal,2011
+Western Africa,Senegal,65.46,5.0,39.7,59.8,11.0,56.5,86.69,9.47,0.14,129.0,14.1,43.26,13231833,SEN,Senegal,Dakar,Senegal,2012
+Western Africa,Senegal,66.07,4.96,38.2,56.7,10.8,57.0,96.6,8.76,0.12,127.0,13.72,43.27,13595566,SEN,Senegal,Dakar,Senegal,2013
+Western Africa,Senegal,66.45,4.9,36.9,53.8,10.6,61.0,102.93,7.65,0.1,125.0,13.37,43.24,13970308,SEN,Senegal,Dakar,Senegal,2014
+Western Africa,Senegal,66.88,4.78,35.5,51.0,9.5,60.5,104.2,6.76,0.11,123.0,14.27,43.14,14356181,SEN,Senegal,Dakar,Senegal,2015
+Western Africa,Senegal,67.5,4.68,34.3,48.4,8.3,64.5,102.95,4.46,0.12,122.0,14.41,42.98,14751356,SEN,Senegal,Dakar,Senegal,2016
+Western Africa,Senegal,67.75,4.62,33.0,45.9,7.3,61.7,103.96,4.08,0.13,120.0,14.98,42.79,15157793,SEN,Senegal,Dakar,Senegal,2017
+Western Africa,Senegal,68.1,4.58,31.9,43.7,6.7,66.0,106.32,3.57,0.14,118.0,14.99,42.57,15574909,SEN,Senegal,Dakar,Senegal,2018
+Western Africa,Senegal,68.53,4.52,30.9,41.8,6.3,70.4,111.75,2.86,0.14,117.0,14.9,42.33,16000781,SEN,Senegal,Dakar,Senegal,2019
+Western Africa,Senegal,68.01,4.45,30.0,40.1,5.9,64.3,116.08,3.34,0.14,115.0,16.15,42.07,16436120,SEN,Senegal,Dakar,Senegal,2020
+Western Africa,Senegal,67.09,4.39,29.1,38.6,5.7,67.98,117.68,3.32,0.15,113.0,15.47,41.76,16876720,SEN,Senegal,Dakar,Senegal,2021
+Western Africa,Sierra Leone,54.62,5.21,104.2,154.5,21.1,14.2,32.32,4.66,1.32,316.0,54.78,43.02,6612385,SLE,Sierra Leone,Freetown,Sierra Leone,2011
+Western Africa,Sierra Leone,55.45,5.06,101.0,148.0,21.4,17.16,32.55,4.62,1.23,314.0,50.76,42.79,6788587,SLE,Sierra Leone,Freetown,Sierra Leone,2012
+Western Africa,Sierra Leone,56.31,4.87,98.0,141.9,22.7,13.5,57.43,4.53,1.24,313.0,47.98,42.51,6964859,SLE,Sierra Leone,Freetown,Sierra Leone,2013
+Western Africa,Sierra Leone,56.39,4.7,96.0,140.0,22.6,18.83,66.62,4.68,1.16,310.0,51.79,42.18,7140688,SLE,Sierra Leone,Freetown,Sierra Leone,2014
+Western Africa,Sierra Leone,57.19,4.55,95.5,141.0,23.7,19.66,77.34,4.74,1.08,307.0,58.76,41.81,7314773,SLE,Sierra Leone,Freetown,Sierra Leone,2015
+Western Africa,Sierra Leone,58.4,4.47,90.1,126.1,24.2,20.3,83.79,4.46,1.0,304.0,57.75,41.41,7493913,SLE,Sierra Leone,Freetown,Sierra Leone,2016
+Western Africa,Sierra Leone,58.65,4.39,87.6,121.4,25.7,23.4,86.29,3.95,0.88,301.0,60.61,40.99,7677565,SLE,Sierra Leone,Freetown,Sierra Leone,2017
+Western Africa,Sierra Leone,59.8,4.29,85.2,116.8,26.8,26.1,80.84,3.19,0.79,298.0,58.93,40.57,7861281,SLE,Sierra Leone,Freetown,Sierra Leone,2018
+Western Africa,Sierra Leone,60.26,4.19,82.8,112.5,27.5,22.7,83.63,3.2,0.69,295.0,58.15,40.17,8046828,SLE,Sierra Leone,Freetown,Sierra Leone,2019
+Western Africa,Sierra Leone,59.76,4.08,80.5,108.5,27.3,26.31,83.61,3.56,0.6,292.0,59.49,39.79,8233970,SLE,Sierra Leone,Freetown,Sierra Leone,2020
+Western Africa,Sierra Leone,60.06,3.98,78.3,104.7,27.8,27.49,97.7,3.66,0.54,289.0,57.45,39.39,8420641,SLE,Sierra Leone,Freetown,Sierra Leone,2021
+Western Africa,Togo,57.92,4.92,56.8,86.4,19.6,39.7,39.94,1.98,1.45,73.0,19.86,41.8,6748672,TGO,Togo,Lome,Togo,2011
+Western Africa,Togo,58.07,4.81,55.3,83.7,19.5,39.13,47.82,2.02,1.31,69.0,20.98,41.76,6926635,TGO,Togo,Lome,Togo,2012
+Western Africa,Togo,58.68,4.72,53.8,81.1,19.2,40.95,59.99,2.08,1.21,64.0,19.14,41.69,7106229,TGO,Togo,Lome,Togo,2013
+Western Africa,Togo,58.85,4.66,52.3,78.5,19.7,45.7,61.96,2.14,1.1,58.0,19.34,41.58,7288383,TGO,Togo,Lome,Togo,2014
+Western Africa,Togo,59.4,4.59,50.9,75.9,19.8,44.75,64.97,2.2,1.07,52.0,18.92,41.44,7473229,TGO,Togo,Lome,Togo,2015
+Western Africa,Togo,59.55,4.56,49.5,73.5,20.3,46.77,71.86,2.96,0.97,46.0,20.39,41.29,7661354,TGO,Togo,Lome,Togo,2016
+Western Africa,Togo,60.15,4.5,48.2,71.2,20.0,48.0,77.3,3.74,0.85,41.0,20.32,41.11,7852795,TGO,Togo,Lome,Togo,2017
+Western Africa,Togo,60.24,4.44,46.8,68.8,19.7,50.0,76.36,3.76,0.75,38.0,19.65,40.92,8046679,TGO,Togo,Lome,Togo,2018
+Western Africa,Togo,60.9,4.38,45.6,66.6,18.8,52.46,75.69,3.76,0.64,37.0,19.51,40.72,8243094,TGO,Togo,Lome,Togo,2019
+Western Africa,Togo,61.04,4.32,44.5,64.6,17.5,54.13,77.19,4.17,0.54,35.0,19.17,40.5,8442580,TGO,Togo,Lome,Togo,2020
+Western Africa,Togo,61.62,4.26,43.4,62.6,17.4,55.74,72.35,4.4,0.5,33.0,18.81,40.25,8644829,TGO,Togo,Lome,Togo,2021
+Western Africa,Western Africa,55.0,5.69,73.71,118.0,10.79,47.18,59.53,4.11,1.04,181.37,23.76,44.15,92551204,,,,,2011
+Western Africa,Western Africa,55.29,5.62,72.28,115.39,10.96,45.0,68.55,4.07,0.99,179.75,23.6,44.17,95108176,,,,,2012
+Western Africa,Western Africa,55.6,5.54,71.06,112.97,10.85,48.32,76.71,3.69,0.92,178.07,22.47,44.18,97690383,,,,,2013
+Western Africa,Western Africa,55.84,5.47,69.95,110.87,10.74,48.93,82.3,3.8,0.86,176.69,22.15,44.14,100241932,,,,,2014
+Western Africa,Western Africa,56.05,5.42,68.83,108.85,10.57,47.8,87.67,4.05,0.83,175.13,22.87,44.06,102734052,,,,,2015
+Western Africa,Western Africa,56.42,5.36,67.61,106.55,10.6,52.35,87.25,4.01,0.8,173.75,23.25,43.94,105240751,,,,,2016
+Western Africa,Western Africa,56.71,5.28,66.39,104.25,10.71,49.8,85.29,4.11,0.74,172.25,23.24,43.78,107847889,,,,,2017
+Western Africa,Western Africa,57.0,5.21,64.98,101.69,10.87,52.48,89.85,4.14,0.71,170.59,23.44,43.6,110490990,,,,,2018
+Western Africa,Western Africa,57.38,5.15,63.54,99.14,11.89,52.42,96.24,4.16,0.67,169.43,23.53,43.4,113137688,,,,,2019
+Western Africa,Western Africa,57.06,5.08,62.16,96.57,13.03,52.88,101.83,4.61,0.58,168.05,25.04,43.18,115845518,,,,,2020
+Western Africa,Western Africa,56.85,5.0,60.72,94.0,14.22,55.61,99.66,4.41,0.44,166.75,24.25,42.95,118579979,,,,,2021
